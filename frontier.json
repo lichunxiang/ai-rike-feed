@@ -1,0 +1,128 @@
+{
+  "edition": "2026.11",
+  "updatedAt": "2026-11-08",
+  "headline": "智能体常驻、开放权重、词元工厂",
+  "intro": "课程主体不追新闻，但判断要跟着事实走。这一期把 2026 年 10–11 月的变化挂回具体课程：不推翻原有框架，只补上今天已经改变的部分。",
+  "note": "按公开报道与榜单整理，日期为报道日期；数字和排名会随版本变化，点开来源核对原文。",
+  "signals": [
+    {
+      "id": "agents-always-on",
+      "date": "2026-11-05",
+      "tag": "智能体",
+      "title": "Agent 从「会回答」变成「一直在干活」",
+      "lead": "OpenAI 在 DevDay 上把 always-on agent 做成了产品：Dots 常驻，自己找时机行动，不再只等你提问。",
+      "paras": [
+        "公开报道里，Dots 由 GPT-6 Astra 驱动，ChatGPT Pro 先可用，初期一个；能在 ChatGPT、Slack、Teams 里工作。企业版还给出会计、邮件营销、法律分析的「专才 Dot」。",
+        "关键不是它能自动跑，而是权限边界：装软件、改密码这类动作要明确批准，用户可以写 Custom Rules。Agent 产品的难点，正从「会不会调用工具」变成「出了事谁负责」。"
+      ],
+      "soWhat": "学 Agent 时，把「权限、审批、回滚」当成一等公民。能自动做的事越多，越要先画清楚哪些动作必须人点头。",
+      "attach": ["w01d1", "w18d1", "w19d3"],
+      "source": {
+        "label": "WIRED · OpenAI DevDay 2026",
+        "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+      }
+    },
+    {
+      "id": "open-weights-kimi",
+      "date": "2026-11-02",
+      "tag": "开放权重",
+      "title": "2.8T 参数的开放权重模型，把选型题变难了",
+      "lead": "Kimi K3.1 Pro 在 Hugging Face 放出完整 MXFP4 权重：2.8T 总参数、104B 激活。",
+      "paras": [
+        "许可不是标准 MIT：年收入超过 2000 万美元的模型即服务要单独协议；月活过亿或月收入过 2000 万美元要展示模型名。开放权重不等于随便商用。",
+        "BenchLM 把它排在总榜第 12、开放权重模型中最前（约 75.03），但 API 价格 $2/$10，推理需要 B300/H200 级机架。权重开放解决「能不能自己跑」，不解决「跑不跑得起」。"
+      ],
+      "soWhat": "选型时把「权重、许可、硬件、单位 token 成本」分开算。只看榜单名次，会漏掉后三项。",
+      "attach": ["w13d5", "w16d1", "w22d1"],
+      "source": {
+        "label": "BenchLM · 2026-11-07",
+        "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026"
+      }
+    },
+    {
+      "id": "token-factory",
+      "date": "2026-04-26",
+      "tag": "词元工厂",
+      "title": "Token 成了度量衡：词元工厂到底在生产什么",
+      "lead": "商汤大装置提出「AI 词元工厂」：把算力、模型、数据加工成可按 token 计价的推理服务。",
+      "paras": [
+        "这个说法把产业链拆成三层：算力层从成本中心变成利润中心，平台层用 token 统一度量，应用层用 AI 生产 AI。原料是算力、模型、数据，产线是推理引擎、缓存、调度，产品就是 token。",
+        "它解释了一个变化：客户不再买「一张卡」或「一个模型」，而是买「处理一次请求」的确定成本。谁能把吞吐、延迟、缓存命中率做好，谁就能把同样的电和卡卖出更多 token。"
+      ],
+      "soWhat": "看 AI 公司时，别只问模型多强，问它的 token 成本曲线：吞吐、缓存、调度、利用率，最后都会写进价格。",
+      "attach": ["w12d4", "w20d3", "w22d2"],
+      "source": {
+        "label": "科技日报 · 2026-04-26",
+        "url": "https://www.stdaily.com/web/gdxw/2026-04/26/content_508462.html"
+      }
+    },
+    {
+      "id": "three-factories",
+      "date": "2026-07-22",
+      "tag": "词元工厂",
+      "title": "三座工厂：训练、词元、智能体",
+      "lead": "摩尔线程在 WAIC 2026 把 AI 基础设施拆成三座工厂：模型训练、词元生产、智能体生产。",
+      "paras": [
+        "训练工厂用夸娥集群完成 MoE-236B 和北大 5D 世界模型 EvoPhys-World 的训练；词元工厂适配 SGLang/vLLM，声称对 DeepSeek、MiniMax、GLM、Kimi、Qwen「发布即适配」，并做 PD 分离的异构推理；智能体工厂「小麦」给出 60+ 技能、38 款 App 的跨应用控制。",
+        "这套叙事是否成立要看利用率与单位成本，但它指出了一个组织现实：模型、推理、Agent 三件事的工程栈正在分开，团队不必从一张白纸搭全部。"
+      ],
+      "soWhat": "做应用时先判断自己该买哪一层：训练、推理还是 Agent 编排。三层都自己造，通常不是技术追求，是成本没算清。",
+      "attach": ["w12d3", "w20d1", "w23d2"],
+      "source": {
+        "label": "NSTL 编译 · 2026-07-22",
+        "url": "http://portal.nstl.gov.cn/choiceness/getChoicenessDetail.htm?serverId=42&uuid=36e6946474094a515251175ca3fa6fb8&recommendId=189301&controlType=openhome&directionId="
+      }
+    },
+    {
+      "id": "inference-platform",
+      "date": "2026-03-17",
+      "tag": "推理基础设施",
+      "title": "推理平台的竞争，落在缓存与调度上",
+      "lead": "Nebius 与 Eigen 合作的 Token Factory，把「按 token 卖推理」做成托管服务。",
+      "paras": [
+        "公开材料强调的不是模型，而是 MoE 路由、KV cache、量化、稀疏化和 continuous batching；GPT-OSS-120B 的输出被做到 911 tok/s。",
+        "对应用方，这意味着同一模型在不同平台上的价格和延迟可以差一个数量级。选平台时要压测自己的输入长度、输出长度和并发，而不是只看标价。"
+      ],
+      "soWhat": "把「每千 token 成本」拆成「输入、输出、缓存命中、并发」四项去问供应商。报价单上的单价，通常不是你的账单。",
+      "attach": ["w12d4", "w16d2", "w20d3"],
+      "source": {
+        "label": "Nebius Blog · 2026-03-17",
+        "url": "https://nebius.com/blog/posts/nebius-and-eigen-ai-partner-to-accelerate-frontier-open-source-ai-inference"
+      }
+    },
+    {
+      "id": "eval-split",
+      "date": "2026-11-05",
+      "tag": "评测",
+      "title": "榜单不再给唯一答案：同一个模型，不同榜首",
+      "lead": "11 月初的评测出现分裂：ScarfBench 上 Gemini 4 Argon 75.2 领先，Clocktower Bench 上 GPT-6 Astra 领先。",
+      "paras": [
+        "同一周，Kimi K3.1 Pro 在 BenchLM 总榜第 12、开放权重第一；GPT-6 Cyber 在 ExploitGym 48.5%，高于 Astra 的 42.4%。没有哪个分数能单独回答「谁最强」。",
+        "原因不神秘：题集、评分方式、工具权限、推理预算不同。一个模型在代码榜领先，可能在长程任务上掉队；一个模型在安全测试里更强，可能只是被限制得更死。"
+      ],
+      "soWhat": "选型时先写自己的 20 道题，再去看榜。榜单用来排除明显不合适的，不用来替你做决定。",
+      "attach": ["w16d1", "w16d5", "w19d4"],
+      "source": {
+        "label": "BenchLM · 2026-11-07",
+        "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026"
+      }
+    },
+    {
+      "id": "specialist-cyber",
+      "date": "2026-11-05",
+      "tag": "专才与安全",
+      "title": "专才模型：能力越强，门槛越高",
+      "lead": "GPT-6 Cyber 只向 Daybreak Red 客户开放，要身份、SSO、MFA 和 IP 白名单。",
+      "paras": [
+        "它是 Astra 的网络安全后训练版，被标为 Preparedness Critical。公开报道给出的价格是 $20/$100，ExploitGym 48.5%。这不是普通 API 上架，而是按客户、按用途放行。",
+        "同一周，企业版 Dots 也按职能拆分。模型产品正在从「一个通用入口」变成「一组受控专才」：能力、权限、审计一起卖。"
+      ],
+      "soWhat": "做企业 AI 时，把「谁能用、能做什么、怎么留痕」写进需求。只评估准确率，上线时会被权限和审计卡住。",
+      "attach": ["w16d3", "w20d4", "w23d4"],
+      "source": {
+        "label": "BenchLM · 2026-11-07",
+        "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026"
+      }
+    }
+  ]
+}
