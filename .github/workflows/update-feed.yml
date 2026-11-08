@@ -1,0 +1,40 @@
+name: Update frontier feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_feed.py"
+      - ".github/workflows/update-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-rike-feed
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch public AI feeds
+        run: python scripts/update_feed.py
+      - name: Commit if changed
+        run: |
+          git config user.name "ai-rike-bot"
+          git config user.email "ai-rike-bot@users.noreply.github.com"
+          git add frontier.json
+          if git diff --cached --quiet; then
+            echo "No new items."
+            exit 0
+          fi
+          git commit -m "chore(feed): auto-update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
