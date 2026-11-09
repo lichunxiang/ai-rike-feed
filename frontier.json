@@ -1,10 +1,262 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-5601a91384",
+      "date": "2026-11-09",
+      "tag": "产业落地",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "lead": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "paras": [
+        "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+      }
+    },
+    {
+      "id": "auto-e1d43f2d5b",
+      "date": "2026-11-09",
+      "tag": "专才与安全",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "lead": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "paras": [
+        "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/control-room"
+      }
+    },
+    {
+      "id": "auto-efb05d7e88",
+      "date": "2026-11-09",
+      "tag": "智能体",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "lead": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "paras": [
+        "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak"
+      }
+    },
+    {
+      "id": "auto-73f8d0c5bb",
+      "date": "2026-11-09",
+      "tag": "词元工厂",
+      "title": "The backlash about data centers might really just be about electricity",
+      "lead": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week…",
+      "paras": [
+        "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+      }
+    },
+    {
+      "id": "auto-764458841a",
+      "date": "2026-11-09",
+      "tag": "专才与安全",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "lead": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nan…",
+      "paras": [
+        "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+      }
+    },
+    {
+      "id": "auto-995f8eaa06",
+      "date": "2026-11-09",
+      "tag": "产业落地",
+      "title": "Innovating with AI in the special chemicals industry",
+      "lead": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scien…",
+      "paras": [
+        "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+      }
+    },
+    {
+      "id": "auto-65cadf467b",
+      "date": "2026-11-09",
+      "tag": "词元工厂",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "lead": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "paras": [
+        "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+      }
+    },
+    {
+      "id": "auto-ceb5cf2d54",
+      "date": "2026-11-09",
+      "tag": "多模态",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "lead": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "paras": [
+        "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
+      "attach": [
+        "w15d3",
+        "w15d4",
+        "w15d5"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+      }
+    },
+    {
+      "id": "auto-3839b95d04",
+      "date": "2026-11-09",
+      "tag": "智能体",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "lead": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "paras": [
+        "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+      }
+    },
+    {
+      "id": "auto-934ef2226e",
+      "date": "2026-11-09",
+      "tag": "前沿观察",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "lead": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "paras": [
+        "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/508690.html"
+      }
+    },
+    {
+      "id": "auto-16c63c980b",
+      "date": "2026-11-09",
+      "tag": "智能体",
+      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+      "lead": "Worker不够了主管Agent还能自己招！",
+      "paras": [
+        "Worker不够了主管Agent还能自己招！",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/508607.html"
+      }
+    },
+    {
+      "id": "auto-b1dfac681e",
+      "date": "2026-11-09",
+      "tag": "智能体",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "lead": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+      "paras": [
+        "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/508603.html"
+      }
+    },
     {
       "id": "auto-7c504a7801",
       "date": "2026-11-07",
