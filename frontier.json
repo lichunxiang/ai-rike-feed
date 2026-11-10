@@ -1,10 +1,52 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-ffbc915688",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "lead": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "paras": [
+        "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+      }
+    },
+    {
+      "id": "auto-87b81f6bab",
+      "date": "2026-11-09",
+      "tag": "前沿观察",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "lead": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "paras": [
+        "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+      }
+    },
     {
       "id": "auto-5601a91384",
       "date": "2026-11-09",
@@ -717,48 +759,6 @@
       "source": {
         "label": "NSTL 编译 · 2026-07-22",
         "url": "http://portal.nstl.gov.cn/choiceness/getChoicenessDetail.htm?serverId=42&uuid=36e6946474094a515251175ca3fa6fb8&recommendId=189301&controlType=openhome&directionId="
-      }
-    },
-    {
-      "id": "token-factory",
-      "date": "2026-04-26",
-      "tag": "词元工厂",
-      "title": "Token 成了度量衡：词元工厂到底在生产什么",
-      "lead": "商汤大装置提出「AI 词元工厂」：把算力、模型、数据加工成可按 token 计价的推理服务。",
-      "paras": [
-        "这个说法把产业链拆成三层：算力层从成本中心变成利润中心，平台层用 token 统一度量，应用层用 AI 生产 AI。原料是算力、模型、数据，产线是推理引擎、缓存、调度，产品就是 token。",
-        "它解释了一个变化：客户不再买「一张卡」或「一个模型」，而是买「处理一次请求」的确定成本。谁能把吞吐、延迟、缓存命中率做好，谁就能把同样的电和卡卖出更多 token。"
-      ],
-      "soWhat": "看 AI 公司时，别只问模型多强，问它的 token 成本曲线：吞吐、缓存、调度、利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "科技日报 · 2026-04-26",
-        "url": "https://www.stdaily.com/web/gdxw/2026-04/26/content_508462.html"
-      }
-    },
-    {
-      "id": "inference-platform",
-      "date": "2026-03-17",
-      "tag": "推理基础设施",
-      "title": "推理平台的竞争，落在缓存与调度上",
-      "lead": "Nebius 与 Eigen 合作的 Token Factory，把「按 token 卖推理」做成托管服务。",
-      "paras": [
-        "公开材料强调的不是模型，而是 MoE 路由、KV cache、量化、稀疏化和 continuous batching；GPT-OSS-120B 的输出被做到 911 tok/s。",
-        "对应用方，这意味着同一模型在不同平台上的价格和延迟可以差一个数量级。选平台时要压测自己的输入长度、输出长度和并发，而不是只看标价。"
-      ],
-      "soWhat": "把「每千 token 成本」拆成「输入、输出、缓存命中、并发」四项去问供应商。报价单上的单价，通常不是你的账单。",
-      "attach": [
-        "w12d4",
-        "w16d2",
-        "w20d3"
-      ],
-      "source": {
-        "label": "Nebius Blog · 2026-03-17",
-        "url": "https://nebius.com/blog/posts/nebius-and-eigen-ai-partner-to-accelerate-frontier-open-source-ai-inference"
       }
     }
   ]
