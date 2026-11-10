@@ -6,6 +6,216 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-bc242aa64c",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "Introducing Businesses in ChatGPT",
+      "lead": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "paras": [
+        "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt"
+      }
+    },
+    {
+      "id": "auto-eed3ffb885",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "Closing the AI guidance gap in education",
+      "lead": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "paras": [
+        "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+      }
+    },
+    {
+      "id": "auto-6f79c98a7f",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "lead": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "paras": [
+        "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work"
+      }
+    },
+    {
+      "id": "auto-c2717a9222",
+      "date": "2026-11-10",
+      "tag": "智能体",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "lead": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "paras": [
+        "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      }
+    },
+    {
+      "id": "auto-bcb834c54c",
+      "date": "2026-11-10",
+      "tag": "产品与组织",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "lead": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "paras": [
+        "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+      }
+    },
+    {
+      "id": "auto-ca7d2169f7",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "lead": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "paras": [
+        "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+      }
+    },
+    {
+      "id": "auto-3b653b3aea",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "lead": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "paras": [
+        "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+      }
+    },
+    {
+      "id": "auto-8ec38a22e1",
+      "date": "2026-11-10",
+      "tag": "开放权重",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "lead": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "paras": [
+        "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "开放权重不等于随便用；许可、激活参数、显存和吞吐，决定它是不是真的「用得起」。",
+      "attach": [
+        "w16d1",
+        "w13d5",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/508996.html"
+      }
+    },
+    {
+      "id": "auto-32d500b70d",
+      "date": "2026-11-10",
+      "tag": "产品与组织",
+      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "lead": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+      "paras": [
+        "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/508991.html"
+      }
+    },
+    {
+      "id": "auto-5201795a79",
+      "date": "2026-11-10",
+      "tag": "前沿观察",
+      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "lead": "加速东部城市型智算中心向E-AIDC演进",
+      "paras": [
+        "加速东部城市型智算中心向E-AIDC演进",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/508985.html"
+      }
+    },
+    {
       "id": "auto-ffbc915688",
       "date": "2026-11-10",
       "tag": "前沿观察",
@@ -24,6 +234,27 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+      }
+    },
+    {
+      "id": "auto-abf5e278eb",
+      "date": "2026-11-09",
+      "tag": "具身与机器人",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "lead": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "paras": [
+        "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
       }
     },
     {
@@ -528,237 +759,6 @@
       "source": {
         "label": "WIRED · OpenAI DevDay 2026",
         "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
-      }
-    },
-    {
-      "id": "eval-split",
-      "date": "2026-11-05",
-      "tag": "评测",
-      "title": "榜单不再给唯一答案：同一个模型，不同榜首",
-      "lead": "11 月初的评测出现分裂：ScarfBench 上 Gemini 4 Argon 75.2 领先，Clocktower Bench 上 GPT-6 Astra 领先。",
-      "paras": [
-        "同一周，Kimi K3.1 Pro 在 BenchLM 总榜第 12、开放权重第一；GPT-6 Cyber 在 ExploitGym 48.5%，高于 Astra 的 42.4%。没有哪个分数能单独回答「谁最强」。",
-        "原因不神秘：题集、评分方式、工具权限、推理预算不同。一个模型在代码榜领先，可能在长程任务上掉队；一个模型在安全测试里更强，可能只是被限制得更死。"
-      ],
-      "soWhat": "选型时先写自己的 20 道题，再去看榜。榜单用来排除明显不合适的，不用来替你做决定。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "BenchLM · 2026-11-07",
-        "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026"
-      }
-    },
-    {
-      "id": "specialist-cyber",
-      "date": "2026-11-05",
-      "tag": "专才与安全",
-      "title": "专才模型：能力越强，门槛越高",
-      "lead": "GPT-6 Cyber 只向 Daybreak Red 客户开放，要身份、SSO、MFA 和 IP 白名单。",
-      "paras": [
-        "它是 Astra 的网络安全后训练版，被标为 Preparedness Critical。公开报道给出的价格是 $20/$100，ExploitGym 48.5%。这不是普通 API 上架，而是按客户、按用途放行。",
-        "同一周，企业版 Dots 也按职能拆分。模型产品正在从「一个通用入口」变成「一组受控专才」：能力、权限、审计一起卖。"
-      ],
-      "soWhat": "做企业 AI 时，把「谁能用、能做什么、怎么留痕」写进需求。只评估准确率，上线时会被权限和审计卡住。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "BenchLM · 2026-11-07",
-        "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026"
-      }
-    },
-    {
-      "id": "auto-c24745b278",
-      "date": "2026-11-04",
-      "tag": "词元工厂",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "lead": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position…",
-      "paras": [
-        "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-04。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
-      }
-    },
-    {
-      "id": "auto-5e400e040c",
-      "date": "2026-11-04",
-      "tag": "智能体",
-      "title": "Securing the agentic enterprise with data lineage",
-      "lead": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The o…",
-      "paras": [
-        "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-04。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
-      }
-    },
-    {
-      "id": "auto-8f2c3ce4e8",
-      "date": "2026-11-03",
-      "tag": "智能体",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "lead": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "paras": [
-        "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-03。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
-      }
-    },
-    {
-      "id": "auto-9358bf6ad6",
-      "date": "2026-11-03",
-      "tag": "专才与安全",
-      "title": "Learn the rules: The hacker mindset",
-      "lead": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requi…",
-      "paras": [
-        "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research .",
-        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-03。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "Microsoft Research",
-        "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/"
-      }
-    },
-    {
-      "id": "open-weights-kimi",
-      "date": "2026-11-02",
-      "tag": "开放权重",
-      "title": "2.8T 参数的开放权重模型，把选型题变难了",
-      "lead": "Kimi K3.1 Pro 在 Hugging Face 放出完整 MXFP4 权重：2.8T 总参数、104B 激活。",
-      "paras": [
-        "许可不是标准 MIT：年收入超过 2000 万美元的模型即服务要单独协议；月活过亿或月收入过 2000 万美元要展示模型名。开放权重不等于随便商用。",
-        "BenchLM 把它排在总榜第 12、开放权重模型中最前（约 75.03），但 API 价格 $2/$10，推理需要 B300/H200 级机架。权重开放解决「能不能自己跑」，不解决「跑不跑得起」。"
-      ],
-      "soWhat": "选型时把「权重、许可、硬件、单位 token 成本」分开算。只看榜单名次，会漏掉后三项。",
-      "attach": [
-        "w13d5",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "BenchLM · 2026-11-07",
-        "url": "https://benchlm.ai/blog/posts/llm-news-november-7-2026"
-      }
-    },
-    {
-      "id": "auto-93a3821045",
-      "date": "2026-10-30",
-      "tag": "前沿观察",
-      "title": "Speeding up planning decisions with AI",
-      "lead": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "paras": [
-        "Google DeepMind and UK government work together to reduce planning assessment times",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-10-30。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
-      }
-    },
-    {
-      "id": "auto-15406e56f2",
-      "date": "2026-10-30",
-      "tag": "智能体",
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "lead": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that can…",
-      "paras": [
-        "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .",
-        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-10-30。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Microsoft Research",
-        "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/"
-      }
-    },
-    {
-      "id": "auto-7dc73ec1eb",
-      "date": "2026-10-27",
-      "tag": "具身与机器人",
-      "title": "Genie 4: A new generation of world simulation",
-      "lead": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "paras": [
-        "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-10-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-      }
-    },
-    {
-      "id": "three-factories",
-      "date": "2026-07-22",
-      "tag": "词元工厂",
-      "title": "三座工厂：训练、词元、智能体",
-      "lead": "摩尔线程在 WAIC 2026 把 AI 基础设施拆成三座工厂：模型训练、词元生产、智能体生产。",
-      "paras": [
-        "训练工厂用夸娥集群完成 MoE-236B 和北大 5D 世界模型 EvoPhys-World 的训练；词元工厂适配 SGLang/vLLM，声称对 DeepSeek、MiniMax、GLM、Kimi、Qwen「发布即适配」，并做 PD 分离的异构推理；智能体工厂「小麦」给出 60+ 技能、38 款 App 的跨应用控制。",
-        "这套叙事是否成立要看利用率与单位成本，但它指出了一个组织现实：模型、推理、Agent 三件事的工程栈正在分开，团队不必从一张白纸搭全部。"
-      ],
-      "soWhat": "做应用时先判断自己该买哪一层：训练、推理还是 Agent 编排。三层都自己造，通常不是技术追求，是成本没算清。",
-      "attach": [
-        "w12d3",
-        "w20d1",
-        "w23d2"
-      ],
-      "source": {
-        "label": "NSTL 编译 · 2026-07-22",
-        "url": "http://portal.nstl.gov.cn/choiceness/getChoicenessDetail.htm?serverId=42&uuid=36e6946474094a515251175ca3fa6fb8&recommendId=189301&controlType=openhome&directionId="
       }
     }
   ]
