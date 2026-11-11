@@ -27,6 +27,153 @@
       }
     },
     {
+      "id": "auto-7f03bb12e4",
+      "date": "2026-11-11",
+      "tag": "评测",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "lead": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "paras": [
+        "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri"
+      }
+    },
+    {
+      "id": "auto-a63ccbf1a6",
+      "date": "2026-11-11",
+      "tag": "前沿观察",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "lead": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "paras": [
+        "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      }
+    },
+    {
+      "id": "auto-010a95228e",
+      "date": "2026-11-11",
+      "tag": "词元工厂",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "lead": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "paras": [
+        "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+      }
+    },
+    {
+      "id": "auto-c99dd929e5",
+      "date": "2026-11-11",
+      "tag": "产业落地",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "lead": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "paras": [
+        "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
+      }
+    },
+    {
+      "id": "auto-caf950a242",
+      "date": "2026-11-11",
+      "tag": "前沿观察",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "lead": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "paras": [
+        "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+      }
+    },
+    {
+      "id": "auto-7b63db726f",
+      "date": "2026-11-11",
+      "tag": "词元工厂",
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "lead": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "paras": [
+        "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509088.html"
+      }
+    },
+    {
+      "id": "auto-6cffeecaac",
+      "date": "2026-11-11",
+      "tag": "前沿观察",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "lead": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "paras": [
+        "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509085.html"
+      }
+    },
+    {
       "id": "auto-5885c8acf9",
       "date": "2026-11-11",
       "tag": "前沿观察",
@@ -612,153 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
-      }
-    },
-    {
-      "id": "auto-ceb5cf2d54",
-      "date": "2026-11-09",
-      "tag": "多模态",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "lead": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "paras": [
-        "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
-      "attach": [
-        "w15d3",
-        "w15d4",
-        "w15d5"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-      }
-    },
-    {
-      "id": "auto-3839b95d04",
-      "date": "2026-11-09",
-      "tag": "智能体",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "lead": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "paras": [
-        "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
-      }
-    },
-    {
-      "id": "auto-934ef2226e",
-      "date": "2026-11-09",
-      "tag": "前沿观察",
-      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-      "lead": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-      "paras": [
-        "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/508690.html"
-      }
-    },
-    {
-      "id": "auto-16c63c980b",
-      "date": "2026-11-09",
-      "tag": "智能体",
-      "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-      "lead": "Worker不够了主管Agent还能自己招！",
-      "paras": [
-        "Worker不够了主管Agent还能自己招！",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/508607.html"
-      }
-    },
-    {
-      "id": "auto-b1dfac681e",
-      "date": "2026-11-09",
-      "tag": "智能体",
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-      "lead": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-      "paras": [
-        "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/508603.html"
-      }
-    },
-    {
-      "id": "auto-7c504a7801",
-      "date": "2026-11-07",
-      "tag": "词元工厂",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "lead": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "paras": [
-        "On Equity, we unpacked what the midterms mean for the tech industry.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-07。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-      }
-    },
-    {
-      "id": "auto-542c23b0fd",
-      "date": "2026-11-07",
-      "tag": "词元工厂",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "lead": "The deal highlights the challenges of developing massive AI data centers.",
-      "paras": [
-        "The deal highlights the challenges of developing massive AI data centers.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-07。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
       }
     }
   ]
