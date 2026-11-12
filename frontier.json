@@ -1,10 +1,73 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-d5d7cf081c",
+      "date": "2026-11-12",
+      "tag": "词元工厂",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "lead": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "paras": [
+        "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+      }
+    },
+    {
+      "id": "auto-7afdef9845",
+      "date": "2026-11-12",
+      "tag": "评测",
+      "title": "百曜科技入选全球 The Information 50！",
+      "lead": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+      "paras": [
+        "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509285.html"
+      }
+    },
+    {
+      "id": "auto-8e2f7d81d9",
+      "date": "2026-11-12",
+      "tag": "具身与机器人",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "lead": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "paras": [
+        "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509281.html"
+      }
+    },
     {
       "id": "auto-a610dfb905",
       "date": "2026-11-12",
@@ -24,6 +87,48 @@
       "source": {
         "label": "OpenAI",
         "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      }
+    },
+    {
+      "id": "auto-a2892c5d08",
+      "date": "2026-11-11",
+      "tag": "专才与安全",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "lead": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "paras": [
+        "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      }
+    },
+    {
+      "id": "auto-b6513a436b",
+      "date": "2026-11-11",
+      "tag": "词元工厂",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "lead": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "paras": [
+        "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
       }
     },
     {
@@ -654,111 +759,6 @@
       "source": {
         "label": "OpenAI",
         "url": "https://openai.com/index/control-room"
-      }
-    },
-    {
-      "id": "auto-efb05d7e88",
-      "date": "2026-11-09",
-      "tag": "智能体",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "lead": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "paras": [
-        "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/coderabbit-codex-daybreak"
-      }
-    },
-    {
-      "id": "auto-73f8d0c5bb",
-      "date": "2026-11-09",
-      "tag": "词元工厂",
-      "title": "The backlash about data centers might really just be about electricity",
-      "lead": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week…",
-      "paras": [
-        "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
-      }
-    },
-    {
-      "id": "auto-764458841a",
-      "date": "2026-11-09",
-      "tag": "专才与安全",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "lead": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nan…",
-      "paras": [
-        "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
-      }
-    },
-    {
-      "id": "auto-995f8eaa06",
-      "date": "2026-11-09",
-      "tag": "产业落地",
-      "title": "Innovating with AI in the special chemicals industry",
-      "lead": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scien…",
-      "paras": [
-        "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
-      }
-    },
-    {
-      "id": "auto-65cadf467b",
-      "date": "2026-11-09",
-      "tag": "词元工厂",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "lead": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "paras": [
-        "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
       }
     }
   ]
