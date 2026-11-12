@@ -6,6 +6,153 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-96f402b8db",
+      "date": "2026-11-12",
+      "tag": "产业落地",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "lead": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "paras": [
+        "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+      }
+    },
+    {
+      "id": "auto-03c26f0a86",
+      "date": "2026-11-12",
+      "tag": "专才与安全",
+      "title": "Supporting research on AI and children’s safety",
+      "lead": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "paras": [
+        "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/children-first-declaration"
+      }
+    },
+    {
+      "id": "auto-b43bedb46c",
+      "date": "2026-11-12",
+      "tag": "前沿观察",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "lead": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "paras": [
+        "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+      }
+    },
+    {
+      "id": "auto-8ed32eca64",
+      "date": "2026-11-12",
+      "tag": "智能体",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "lead": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "paras": [
+        "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+      }
+    },
+    {
+      "id": "auto-fa77000fec",
+      "date": "2026-11-12",
+      "tag": "词元工厂",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "lead": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as th…",
+      "paras": [
+        "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+      }
+    },
+    {
+      "id": "auto-c4d8c3cf20",
+      "date": "2026-11-12",
+      "tag": "前沿观察",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "lead": "银河智学首席科学家邓澍军博士发表主题演讲",
+      "paras": [
+        "银河智学首席科学家邓澍军博士发表主题演讲",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509404.html"
+      }
+    },
+    {
+      "id": "auto-c2baefed2e",
+      "date": "2026-11-12",
+      "tag": "前沿观察",
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "lead": "Grok在让人破绷这件事上，从来不会让人失望。",
+      "paras": [
+        "Grok在让人破绷这件事上，从来不会让人失望。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509355.html"
+      }
+    },
+    {
       "id": "auto-d5d7cf081c",
       "date": "2026-11-12",
       "tag": "词元工厂",
@@ -612,153 +759,6 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/508996.html"
-      }
-    },
-    {
-      "id": "auto-32d500b70d",
-      "date": "2026-11-10",
-      "tag": "产品与组织",
-      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-      "lead": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
-      "paras": [
-        "TensorWorld物原科技在一个月内已拿到过亿美元融资",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/508991.html"
-      }
-    },
-    {
-      "id": "auto-5201795a79",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "lead": "加速东部城市型智算中心向E-AIDC演进",
-      "paras": [
-        "加速东部城市型智算中心向E-AIDC演进",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/508985.html"
-      }
-    },
-    {
-      "id": "auto-ffbc915688",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "lead": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "paras": [
-        "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
-      }
-    },
-    {
-      "id": "auto-abf5e278eb",
-      "date": "2026-11-09",
-      "tag": "具身与机器人",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "lead": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "paras": [
-        "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-      }
-    },
-    {
-      "id": "auto-87b81f6bab",
-      "date": "2026-11-09",
-      "tag": "前沿观察",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "lead": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "paras": [
-        "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
-      }
-    },
-    {
-      "id": "auto-5601a91384",
-      "date": "2026-11-09",
-      "tag": "产业落地",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "lead": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "paras": [
-        "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-      }
-    },
-    {
-      "id": "auto-e1d43f2d5b",
-      "date": "2026-11-09",
-      "tag": "专才与安全",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "lead": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "paras": [
-        "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-09。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/control-room"
       }
     }
   ]
