@@ -6,6 +6,132 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-d9e47ac0ae",
+      "date": "2026-11-13",
+      "tag": "智能体",
+      "title": "Introducing ChatGPT Wallet",
+      "lead": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "paras": [
+        "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet"
+      }
+    },
+    {
+      "id": "auto-5960c31dd7",
+      "date": "2026-11-13",
+      "tag": "词元工厂",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "lead": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "paras": [
+        "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      }
+    },
+    {
+      "id": "auto-41a7716bf0",
+      "date": "2026-11-13",
+      "tag": "智能体",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "lead": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "paras": [
+        "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      }
+    },
+    {
+      "id": "auto-93cc900b9b",
+      "date": "2026-11-13",
+      "tag": "前沿观察",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "lead": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+      "paras": [
+        "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509730.html"
+      }
+    },
+    {
+      "id": "auto-06fbe18e28",
+      "date": "2026-11-13",
+      "tag": "前沿观察",
+      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+      "lead": "比亚迪正在把规模优势转化为技术与品牌价值",
+      "paras": [
+        "比亚迪正在把规模优势转化为技术与品牌价值",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509716.html"
+      }
+    },
+    {
+      "id": "auto-2d57353aa0",
+      "date": "2026-11-13",
+      "tag": "前沿观察",
+      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "lead": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+      "paras": [
+        "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/509710.html"
+      }
+    },
+    {
       "id": "auto-7e6f292ddc",
       "date": "2026-11-12",
       "tag": "智能体",
@@ -633,132 +759,6 @@
       "source": {
         "label": "arXiv cs.AI",
         "url": "https://arxiv.org/abs/2611.12935"
-      }
-    },
-    {
-      "id": "auto-618a3d3907",
-      "date": "2026-11-10",
-      "tag": "产业落地",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "lead": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "paras": [
-        "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-      }
-    },
-    {
-      "id": "auto-6deaeadbf9",
-      "date": "2026-11-10",
-      "tag": "专才与安全",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "lead": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or fa…",
-      "paras": [
-        "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-      }
-    },
-    {
-      "id": "auto-500f9e7efd",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "lead": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while…",
-      "paras": [
-        "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
-      }
-    },
-    {
-      "id": "auto-9347846880",
-      "date": "2026-11-10",
-      "tag": "智能体",
-      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
-      "lead": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands w…",
-      "paras": [
-        "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .",
-        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Microsoft Research",
-        "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
-      }
-    },
-    {
-      "id": "auto-bc242aa64c",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "Introducing Businesses in ChatGPT",
-      "lead": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "paras": [
-        "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt"
-      }
-    },
-    {
-      "id": "auto-eed3ffb885",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "Closing the AI guidance gap in education",
-      "lead": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "paras": [
-        "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education"
       }
     }
   ]
