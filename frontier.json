@@ -1,10 +1,136 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-7e6f292ddc",
+      "date": "2026-11-12",
+      "tag": "智能体",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "lead": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "paras": [
+        "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/amplitude"
+      }
+    },
+    {
+      "id": "auto-6a2e292d3a",
+      "date": "2026-11-12",
+      "tag": "词元工厂",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "lead": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "paras": [
+        "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/gondola"
+      }
+    },
+    {
+      "id": "auto-bf6069d60b",
+      "date": "2026-11-12",
+      "tag": "词元工厂",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "lead": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Fost…",
+      "paras": [
+        "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+      }
+    },
+    {
+      "id": "auto-8fa463df74",
+      "date": "2026-11-12",
+      "tag": "前沿观察",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "lead": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "paras": [
+        "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+      }
+    },
+    {
+      "id": "auto-497d5e25d6",
+      "date": "2026-11-12",
+      "tag": "词元工厂",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "lead": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "paras": [
+        "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+      }
+    },
+    {
+      "id": "auto-140fe6d88d",
+      "date": "2026-11-12",
+      "tag": "智能体",
+      "title": "Microsoft Research Focus – Edition #98",
+      "lead": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances makin…",
+      "paras": [
+        "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
+        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+      }
+    },
     {
       "id": "auto-96f402b8db",
       "date": "2026-11-12",
@@ -633,132 +759,6 @@
       "source": {
         "label": "OpenAI",
         "url": "https://openai.com/index/closing-ai-guidance-gap-education"
-      }
-    },
-    {
-      "id": "auto-6f79c98a7f",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "lead": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "paras": [
-        "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/ai-effect-on-freelance-work"
-      }
-    },
-    {
-      "id": "auto-c2717a9222",
-      "date": "2026-11-10",
-      "tag": "智能体",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "lead": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "paras": [
-        "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-      }
-    },
-    {
-      "id": "auto-bcb834c54c",
-      "date": "2026-11-10",
-      "tag": "产品与组织",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "lead": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "paras": [
-        "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
-      }
-    },
-    {
-      "id": "auto-ca7d2169f7",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "lead": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "paras": [
-        "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
-      }
-    },
-    {
-      "id": "auto-3b653b3aea",
-      "date": "2026-11-10",
-      "tag": "前沿观察",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "lead": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "paras": [
-        "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-      }
-    },
-    {
-      "id": "auto-8ec38a22e1",
-      "date": "2026-11-10",
-      "tag": "开放权重",
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-      "lead": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
-      "paras": [
-        "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-10。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "开放权重不等于随便用；许可、激活参数、显存和吞吐，决定它是不是真的「用得起」。",
-      "attach": [
-        "w16d1",
-        "w13d5",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/508996.html"
       }
     }
   ]
