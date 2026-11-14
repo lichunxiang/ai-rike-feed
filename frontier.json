@@ -6,6 +6,90 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-32d4e94155",
+      "date": "2026-11-14",
+      "tag": "产品与组织",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "lead": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "paras": [
+        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      }
+    },
+    {
+      "id": "auto-7544501ac3",
+      "date": "2026-11-14",
+      "tag": "词元工厂",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "lead": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "paras": [
+        "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+      }
+    },
+    {
+      "id": "auto-29335d96b5",
+      "date": "2026-11-14",
+      "tag": "词元工厂",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "lead": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+      "paras": [
+        "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510232.html"
+      }
+    },
+    {
+      "id": "auto-bfd531ef0b",
+      "date": "2026-11-14",
+      "tag": "词元工厂",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "lead": "年产2000万亿Token，成本狂降70%",
+      "paras": [
+        "年产2000万亿Token，成本狂降70%",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510094.html"
+      }
+    },
+    {
       "id": "auto-f3f14e061e",
       "date": "2026-11-14",
       "tag": "评测",
@@ -675,90 +759,6 @@
       "source": {
         "label": "OpenAI",
         "url": "https://openai.com/index/jiostar-vijay-seshadri"
-      }
-    },
-    {
-      "id": "auto-a63ccbf1a6",
-      "date": "2026-11-11",
-      "tag": "前沿观察",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "lead": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "paras": [
-        "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
-      }
-    },
-    {
-      "id": "auto-010a95228e",
-      "date": "2026-11-11",
-      "tag": "词元工厂",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "lead": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "paras": [
-        "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
-      }
-    },
-    {
-      "id": "auto-c99dd929e5",
-      "date": "2026-11-11",
-      "tag": "产业落地",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "lead": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "paras": [
-        "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"
-      }
-    },
-    {
-      "id": "auto-caf950a242",
-      "date": "2026-11-11",
-      "tag": "前沿观察",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "lead": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "paras": [
-        "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
       }
     }
   ]
