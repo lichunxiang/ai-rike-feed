@@ -1,10 +1,31 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-04d251fa3e",
+      "date": "2026-11-15",
+      "tag": "词元工厂",
+      "title": "Where was Nvidia’s security team?",
+      "lead": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling ch…",
+      "paras": [
+        "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-15。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+      }
+    },
     {
       "id": "auto-b7b23413e3",
       "date": "2026-11-14",
@@ -738,27 +759,6 @@
       "source": {
         "label": "Google DeepMind",
         "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
-      }
-    },
-    {
-      "id": "auto-a2892c5d08",
-      "date": "2026-11-11",
-      "tag": "专才与安全",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "lead": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "paras": [
-        "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-11。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
       }
     }
   ]
