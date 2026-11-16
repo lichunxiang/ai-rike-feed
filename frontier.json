@@ -6,6 +6,279 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-b22ce6eb40",
+      "date": "2026-11-16",
+      "tag": "前沿观察",
+      "title": "Broadening access to AI for scientists",
+      "lead": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "paras": [
+        "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+      }
+    },
+    {
+      "id": "auto-36a763fdbb",
+      "date": "2026-11-16",
+      "tag": "前沿观察",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "lead": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "paras": [
+        "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/strengthening-online-child-safety"
+      }
+    },
+    {
+      "id": "auto-4e03a92edb",
+      "date": "2026-11-16",
+      "tag": "产品与组织",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "lead": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "paras": [
+        "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/science-at-the-frontier"
+      }
+    },
+    {
+      "id": "auto-dac64cf103",
+      "date": "2026-11-16",
+      "tag": "词元工厂",
+      "title": "The open-source movement wants Jensen Huang back",
+      "lead": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as…",
+      "paras": [
+        "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+      }
+    },
+    {
+      "id": "auto-10a124cdf8",
+      "date": "2026-11-16",
+      "tag": "智能体",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "lead": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to s…",
+      "paras": [
+        "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+      }
+    },
+    {
+      "id": "auto-eec37421a6",
+      "date": "2026-11-16",
+      "tag": "智能体",
+      "title": "Building AI that can work across the enterprise",
+      "lead": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inade…",
+      "paras": [
+        "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
+      }
+    },
+    {
+      "id": "auto-4215a39cda",
+      "date": "2026-11-16",
+      "tag": "词元工厂",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "lead": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nv…",
+      "paras": [
+        "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+      }
+    },
+    {
+      "id": "auto-e50dd406f8",
+      "date": "2026-11-16",
+      "tag": "智能体",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "lead": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "paras": [
+        "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+      }
+    },
+    {
+      "id": "auto-b8d13b7f95",
+      "date": "2026-11-16",
+      "tag": "词元工厂",
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "lead": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "paras": [
+        "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
+      }
+    },
+    {
+      "id": "auto-2dae2ccd5c",
+      "date": "2026-11-16",
+      "tag": "智能体",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "lead": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It…",
+      "paras": [
+        "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient appeared first on Microsoft Research .",
+        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
+      }
+    },
+    {
+      "id": "auto-dfe518b287",
+      "date": "2026-11-16",
+      "tag": "具身与机器人",
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "lead": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+      "paras": [
+        "具身智能的真正价值是“把人的经验、技能复刻出来”",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510542.html"
+      }
+    },
+    {
+      "id": "auto-51a21e3c79",
+      "date": "2026-11-16",
+      "tag": "前沿观察",
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "lead": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "paras": [
+        "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510493.html"
+      }
+    },
+    {
+      "id": "auto-babd04fd82",
+      "date": "2026-11-16",
+      "tag": "智能体",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "lead": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+      "paras": [
+        "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510486.html"
+      }
+    },
+    {
       "id": "auto-61dff6bcb7",
       "date": "2026-11-16",
       "tag": "产业落地",
@@ -486,279 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-      }
-    },
-    {
-      "id": "auto-93cc900b9b",
-      "date": "2026-11-13",
-      "tag": "前沿观察",
-      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-      "lead": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-      "paras": [
-        "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/509730.html"
-      }
-    },
-    {
-      "id": "auto-06fbe18e28",
-      "date": "2026-11-13",
-      "tag": "前沿观察",
-      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-      "lead": "比亚迪正在把规模优势转化为技术与品牌价值",
-      "paras": [
-        "比亚迪正在把规模优势转化为技术与品牌价值",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/509716.html"
-      }
-    },
-    {
-      "id": "auto-2d57353aa0",
-      "date": "2026-11-13",
-      "tag": "前沿观察",
-      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-      "lead": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
-      "paras": [
-        "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/509710.html"
-      }
-    },
-    {
-      "id": "auto-7e6f292ddc",
-      "date": "2026-11-12",
-      "tag": "智能体",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "lead": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "paras": [
-        "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/customer-stories/amplitude"
-      }
-    },
-    {
-      "id": "auto-6a2e292d3a",
-      "date": "2026-11-12",
-      "tag": "词元工厂",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "lead": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "paras": [
-        "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/customer-stories/gondola"
-      }
-    },
-    {
-      "id": "auto-bf6069d60b",
-      "date": "2026-11-12",
-      "tag": "词元工厂",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "lead": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Fost…",
-      "paras": [
-        "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-      }
-    },
-    {
-      "id": "auto-8fa463df74",
-      "date": "2026-11-12",
-      "tag": "前沿观察",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "lead": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "paras": [
-        "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
-      }
-    },
-    {
-      "id": "auto-497d5e25d6",
-      "date": "2026-11-12",
-      "tag": "词元工厂",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "lead": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "paras": [
-        "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
-      }
-    },
-    {
-      "id": "auto-140fe6d88d",
-      "date": "2026-11-12",
-      "tag": "智能体",
-      "title": "Microsoft Research Focus – Edition #98",
-      "lead": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances makin…",
-      "paras": [
-        "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
-        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Microsoft Research",
-        "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
-      }
-    },
-    {
-      "id": "auto-96f402b8db",
-      "date": "2026-11-12",
-      "tag": "产业落地",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "lead": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "paras": [
-        "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-      }
-    },
-    {
-      "id": "auto-03c26f0a86",
-      "date": "2026-11-12",
-      "tag": "专才与安全",
-      "title": "Supporting research on AI and children’s safety",
-      "lead": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "paras": [
-        "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/children-first-declaration"
-      }
-    },
-    {
-      "id": "auto-b43bedb46c",
-      "date": "2026-11-12",
-      "tag": "前沿观察",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "lead": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "paras": [
-        "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
-      }
-    },
-    {
-      "id": "auto-8ed32eca64",
-      "date": "2026-11-12",
-      "tag": "智能体",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "lead": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "paras": [
-        "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-12。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
       }
     }
   ]
