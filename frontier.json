@@ -6,6 +6,153 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-bffe6a2fa5",
+      "date": "2026-11-17",
+      "tag": "智能体",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "lead": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "paras": [
+        "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      }
+    },
+    {
+      "id": "auto-9aed0b2765",
+      "date": "2026-11-17",
+      "tag": "产品与组织",
+      "title": "Introducing OpenAI for Chile",
+      "lead": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "paras": [
+        "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-openai-for-chile"
+      }
+    },
+    {
+      "id": "auto-f6559537c6",
+      "date": "2026-11-17",
+      "tag": "多模态",
+      "title": "Research Reports",
+      "lead": "To access a report, click on the corresponding image below.",
+      "paras": [
+        "To access a report, click on the corresponding image below.",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
+      "attach": [
+        "w15d3",
+        "w15d4",
+        "w15d5"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+      }
+    },
+    {
+      "id": "auto-564c609ea8",
+      "date": "2026-11-17",
+      "tag": "智能体",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "lead": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new develop…",
+      "paras": [
+        "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+      }
+    },
+    {
+      "id": "auto-8ef964ef96",
+      "date": "2026-11-17",
+      "tag": "前沿观察",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "lead": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "paras": [
+        "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+      }
+    },
+    {
+      "id": "auto-ebbc5a6e1d",
+      "date": "2026-11-17",
+      "tag": "前沿观察",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "lead": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "paras": [
+        "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+      }
+    },
+    {
+      "id": "auto-189e0890bb",
+      "date": "2026-11-17",
+      "tag": "智能体",
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "lead": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "paras": [
+        "筛材料、找配方、开发新模型…拿下多项科研任务",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510652.html"
+      }
+    },
+    {
       "id": "auto-459350c16e",
       "date": "2026-11-17",
       "tag": "专才与安全",
@@ -612,153 +759,6 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/510094.html"
-      }
-    },
-    {
-      "id": "auto-f3f14e061e",
-      "date": "2026-11-14",
-      "tag": "评测",
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "lead": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it i…",
-      "paras": [
-        "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One that yields a legal-but-wrong move is silent, because a legality-only pipeline accepts it and reads every later move against a wrong position. We therefore treat the task as game reconstruction and present Zugwise, which repurposes computer-chess machinery (quiescence search, static exchange evaluation, pin detection) to ask not \"what should be played?\" but \"could a human plausibly have written thi…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.14544"
-      }
-    },
-    {
-      "id": "auto-e92a191568",
-      "date": "2026-11-14",
-      "tag": "智能体",
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "lead": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history…",
-      "paras": [
-        "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history at a fixed world, where showing a corrected step and saying it is done move together. We ask whether the same correct content helps or hurts depending on how the history states it and what the world holds. We freeze an agent mid-task with its exact world state, edit the history or the world, and let a receiver model continue. On AgentCE-Bench, after the agent commits a wrong value, we hold the wo…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.14654"
-      }
-    },
-    {
-      "id": "auto-2596d1155a",
-      "date": "2026-11-14",
-      "tag": "智能体",
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "lead": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic dist…",
-      "paras": [
-        "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited for agent hill-climbing. Existing systems struggle with continual compilation due to a tradeoff between measurement throughput and fidelity. Many systems use agents to optimize individual kernels from the inference forward pass using offline benchmarks, but timings are low-fidelity because of data-…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.14681"
-      }
-    },
-    {
-      "id": "auto-af64e2cb0d",
-      "date": "2026-11-13",
-      "tag": "智能体",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "lead": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "paras": [
-        "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/customer-stories/shield"
-      }
-    },
-    {
-      "id": "auto-e312e2ded7",
-      "date": "2026-11-13",
-      "tag": "词元工厂",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "lead": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "paras": [
-        "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-      }
-    },
-    {
-      "id": "auto-c0b68d1952",
-      "date": "2026-11-13",
-      "tag": "智能体",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "lead": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "paras": [
-        "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-      }
-    },
-    {
-      "id": "auto-d9e47ac0ae",
-      "date": "2026-11-13",
-      "tag": "智能体",
-      "title": "Introducing ChatGPT Wallet",
-      "lead": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "paras": [
-        "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-13。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet"
       }
     }
   ]
