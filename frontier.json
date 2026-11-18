@@ -6,6 +6,216 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-879fdaaa9a",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "Inside the Codex sandbox",
+      "lead": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "paras": [
+        "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/inside-the-codex-sandbox"
+      }
+    },
+    {
+      "id": "auto-a46f35d5fa",
+      "date": "2026-11-18",
+      "tag": "专才与安全",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "lead": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "paras": [
+        "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/managing-frontier-ai-risk"
+      }
+    },
+    {
+      "id": "auto-0c0b4de741",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "lead": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "paras": [
+        "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+      }
+    },
+    {
+      "id": "auto-b0b4dc5c65",
+      "date": "2026-11-18",
+      "tag": "具身与机器人",
+      "title": "The AI Hype Index: AI is everywhere",
+      "lead": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, a…",
+      "paras": [
+        "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+      }
+    },
+    {
+      "id": "auto-bcfa989cde",
+      "date": "2026-11-18",
+      "tag": "产品与组织",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "lead": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “…",
+      "paras": [
+        "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+      }
+    },
+    {
+      "id": "auto-867f552888",
+      "date": "2026-11-18",
+      "tag": "智能体",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "lead": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "paras": [
+        "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+      }
+    },
+    {
+      "id": "auto-71b65fd5e0",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "lead": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "paras": [
+        "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+      }
+    },
+    {
+      "id": "auto-aaefc9f79f",
+      "date": "2026-11-18",
+      "tag": "智能体",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "lead": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "paras": [
+        "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      }
+    },
+    {
+      "id": "auto-562a86071b",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "lead": "OpenAI也终于活成了2022年谷歌的样子",
+      "paras": [
+        "OpenAI也终于活成了2022年谷歌的样子",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510914.html"
+      }
+    },
+    {
+      "id": "auto-aa4e4df17b",
+      "date": "2026-11-18",
+      "tag": "评测",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "lead": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "paras": [
+        "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510916.html"
+      }
+    },
+    {
       "id": "auto-6b00a9931d",
       "date": "2026-11-18",
       "tag": "词元工厂",
@@ -549,216 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
-      }
-    },
-    {
-      "id": "auto-e50dd406f8",
-      "date": "2026-11-16",
-      "tag": "智能体",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "lead": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
-      "paras": [
-        "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-      }
-    },
-    {
-      "id": "auto-b8d13b7f95",
-      "date": "2026-11-16",
-      "tag": "词元工厂",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "lead": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "paras": [
-        "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
-      }
-    },
-    {
-      "id": "auto-2dae2ccd5c",
-      "date": "2026-11-16",
-      "tag": "智能体",
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "lead": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It…",
-      "paras": [
-        "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient appeared first on Microsoft Research .",
-        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Microsoft Research",
-        "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/"
-      }
-    },
-    {
-      "id": "auto-dfe518b287",
-      "date": "2026-11-16",
-      "tag": "具身与机器人",
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "lead": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-      "paras": [
-        "具身智能的真正价值是“把人的经验、技能复刻出来”",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510542.html"
-      }
-    },
-    {
-      "id": "auto-51a21e3c79",
-      "date": "2026-11-16",
-      "tag": "前沿观察",
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-      "lead": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-      "paras": [
-        "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510493.html"
-      }
-    },
-    {
-      "id": "auto-babd04fd82",
-      "date": "2026-11-16",
-      "tag": "智能体",
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "lead": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-      "paras": [
-        "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510486.html"
-      }
-    },
-    {
-      "id": "auto-61dff6bcb7",
-      "date": "2026-11-16",
-      "tag": "产业落地",
-      "title": "Apple launches new app to study how people use AI for health",
-      "lead": "Apple's new app for a study will answer everyday medical questions",
-      "paras": [
-        "Apple's new app for a study will answer everyday medical questions",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
-      }
-    },
-    {
-      "id": "auto-be83fd0b15",
-      "date": "2026-11-16",
-      "tag": "智能体",
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "lead": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver…",
-      "paras": [
-        "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater degradation than false-keep, while a non-deleting baseline can still fail when incorrect labels steer generation. On a frozen 102/102 calibration/test split, a simple deployment-matched gate reaches 0…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.17338"
-      }
-    },
-    {
-      "id": "auto-23217edd59",
-      "date": "2026-11-16",
-      "tag": "词元工厂",
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "lead": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets…",
-      "paras": [
-        "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision, sit outside this evidence base. We present a reproducible one-GPU audit of four detectors spanning three paradigms: length-normalized token-margin calibration, a lexical n-gram baseline, and two sampling-based consistency methods (semantic entropy and SelfCheckGPT-NLI) on two small open instructio…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.17339"
-      }
-    },
-    {
-      "id": "auto-aa7fba415a",
-      "date": "2026-11-16",
-      "tag": "词元工厂",
-      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-      "lead": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but re…",
-      "paras": [
-        "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in dynamic settings. This paper treats adapter routing as a representation alignment problem in the adapter-output space. The proposed training-free method selects adapters by matching adapter-conditioned query representations against task prototypes using co…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.17340"
       }
     }
   ]
