@@ -1,10 +1,220 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-6b00a9931d",
+      "date": "2026-11-18",
+      "tag": "词元工厂",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "lead": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio compan…",
+      "paras": [
+        "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+      }
+    },
+    {
+      "id": "auto-572e90e3a2",
+      "date": "2026-11-18",
+      "tag": "词元工厂",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "lead": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "paras": [
+        "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+      }
+    },
+    {
+      "id": "auto-9e794f40db",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "lead": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "paras": [
+        "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510811.html"
+      }
+    },
+    {
+      "id": "auto-85554748c4",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "lead": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "paras": [
+        "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/510737.html"
+      }
+    },
+    {
+      "id": "auto-f14bd1897d",
+      "date": "2026-11-18",
+      "tag": "评测",
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "lead": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering…",
+      "paras": [
+        "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extracted from U.S. Nuclear Regulatory Commission (NRC) reactor operator licensing examinations covering 18 nuclear facilities. Each question is classified according to the NRC Knowledge and Abilities cat…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.21682"
+      }
+    },
+    {
+      "id": "auto-0c3c2f245e",
+      "date": "2026-11-18",
+      "tag": "智能体",
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "lead": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One ris…",
+      "paras": [
+        "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though training contains no monitor-evasion examples. In covert side-task evaluations, traces in which a gpt-oss-20b model organism completes the hidden side task contain less monitorable evidence than the bas…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.21799"
+      }
+    },
+    {
+      "id": "auto-b1642fd33f",
+      "date": "2026-11-18",
+      "tag": "词元工厂",
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "lead": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of t…",
+      "paras": [
+        "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the vehicle removed, accuracy is 63.3% on the 40-class SOC split (chance 2.5%). Under the official scene-change split, the background stops helping and starts hurting. Accuracy is 22.8% on full chips and…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.21827"
+      }
+    },
+    {
+      "id": "auto-0979e4b9fa",
+      "date": "2026-11-17",
+      "tag": "前沿观察",
+      "title": "Introducing ChatGPT for Sales",
+      "lead": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "paras": [
+        "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+      }
+    },
+    {
+      "id": "auto-46cf388b56",
+      "date": "2026-11-17",
+      "tag": "词元工厂",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "lead": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "paras": [
+        "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+      }
+    },
+    {
+      "id": "auto-ce6588655b",
+      "date": "2026-11-17",
+      "tag": "前沿观察",
+      "title": "Can AI help build a healthier future?",
+      "lead": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz…",
+      "paras": [
+        "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier future? appeared first on Microsoft Research .",
+        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
+      }
+    },
     {
       "id": "auto-bffe6a2fa5",
       "date": "2026-11-17",
@@ -549,216 +759,6 @@
       "source": {
         "label": "arXiv cs.AI",
         "url": "https://arxiv.org/abs/2611.17340"
-      }
-    },
-    {
-      "id": "auto-a97b6ece7a",
-      "date": "2026-11-15",
-      "tag": "前沿观察",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "lead": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "paras": [
-        "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-15。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-      }
-    },
-    {
-      "id": "auto-addccc25e8",
-      "date": "2026-11-15",
-      "tag": "前沿观察",
-      "title": "Our new blog for science",
-      "lead": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "paras": [
-        "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-15。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/our-new-blog-for-science"
-      }
-    },
-    {
-      "id": "auto-4590b87cc6",
-      "date": "2026-11-15",
-      "tag": "词元工厂",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "lead": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "paras": [
-        "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-15。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
-      }
-    },
-    {
-      "id": "auto-1d8754cffe",
-      "date": "2026-11-15",
-      "tag": "词元工厂",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "lead": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "paras": [
-        "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-15。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
-      }
-    },
-    {
-      "id": "auto-04d251fa3e",
-      "date": "2026-11-15",
-      "tag": "词元工厂",
-      "title": "Where was Nvidia’s security team?",
-      "lead": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling ch…",
-      "paras": [
-        "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-15。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-      }
-    },
-    {
-      "id": "auto-b7b23413e3",
-      "date": "2026-11-14",
-      "tag": "词元工厂",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "lead": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "paras": [
-        "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-      }
-    },
-    {
-      "id": "auto-32d4e94155",
-      "date": "2026-11-14",
-      "tag": "产品与组织",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "lead": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "paras": [
-        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      }
-    },
-    {
-      "id": "auto-7544501ac3",
-      "date": "2026-11-14",
-      "tag": "词元工厂",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "lead": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "paras": [
-        "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-      }
-    },
-    {
-      "id": "auto-29335d96b5",
-      "date": "2026-11-14",
-      "tag": "词元工厂",
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "lead": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-      "paras": [
-        "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510232.html"
-      }
-    },
-    {
-      "id": "auto-bfd531ef0b",
-      "date": "2026-11-14",
-      "tag": "词元工厂",
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "lead": "年产2000万亿Token，成本狂降70%",
-      "paras": [
-        "年产2000万亿Token，成本狂降70%",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-14。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510094.html"
       }
     }
   ]
