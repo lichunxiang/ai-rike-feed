@@ -1,10 +1,178 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-f45057932c",
+      "date": "2026-11-19",
+      "tag": "前沿观察",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "lead": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via anoth…",
+      "paras": [
+        "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      }
+    },
+    {
+      "id": "auto-898406383d",
+      "date": "2026-11-19",
+      "tag": "产业落地",
+      "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+      "lead": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+      "paras": [
+        "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/511088.html"
+      }
+    },
+    {
+      "id": "auto-d0299222c4",
+      "date": "2026-11-19",
+      "tag": "前沿观察",
+      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "lead": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+      "paras": [
+        "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/511079.html"
+      }
+    },
+    {
+      "id": "auto-3d233a1742",
+      "date": "2026-11-18",
+      "tag": "前沿观察",
+      "title": "The Silent Consensus",
+      "lead": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "paras": [
+        "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/the-silent-consensus"
+      }
+    },
+    {
+      "id": "auto-31bfc00e1b",
+      "date": "2026-11-18",
+      "tag": "智能体",
+      "title": "Research acceleration: The jagged frontier",
+      "lead": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "paras": [
+        "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+      }
+    },
+    {
+      "id": "auto-efc4328d22",
+      "date": "2026-11-18",
+      "tag": "产业落地",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "lead": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "paras": [
+        "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life"
+      }
+    },
+    {
+      "id": "auto-ba416d0b54",
+      "date": "2026-11-18",
+      "tag": "专才与安全",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "lead": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "paras": [
+        "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+      }
+    },
+    {
+      "id": "auto-3ea19ac761",
+      "date": "2026-11-18",
+      "tag": "产品与组织",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "lead": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "paras": [
+        "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+      }
+    },
     {
       "id": "auto-879fdaaa9a",
       "date": "2026-11-18",
@@ -591,174 +759,6 @@
       "source": {
         "label": "OpenAI",
         "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
-      }
-    },
-    {
-      "id": "auto-45e170674e",
-      "date": "2026-11-16",
-      "tag": "专才与安全",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "lead": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "paras": [
-        "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-      }
-    },
-    {
-      "id": "auto-b22ce6eb40",
-      "date": "2026-11-16",
-      "tag": "前沿观察",
-      "title": "Broadening access to AI for scientists",
-      "lead": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "paras": [
-        "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
-      }
-    },
-    {
-      "id": "auto-36a763fdbb",
-      "date": "2026-11-16",
-      "tag": "前沿观察",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "lead": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "paras": [
-        "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/strengthening-online-child-safety"
-      }
-    },
-    {
-      "id": "auto-4e03a92edb",
-      "date": "2026-11-16",
-      "tag": "产品与组织",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "lead": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "paras": [
-        "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/science-at-the-frontier"
-      }
-    },
-    {
-      "id": "auto-dac64cf103",
-      "date": "2026-11-16",
-      "tag": "词元工厂",
-      "title": "The open-source movement wants Jensen Huang back",
-      "lead": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as…",
-      "paras": [
-        "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
-      }
-    },
-    {
-      "id": "auto-10a124cdf8",
-      "date": "2026-11-16",
-      "tag": "智能体",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "lead": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to s…",
-      "paras": [
-        "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
-      }
-    },
-    {
-      "id": "auto-eec37421a6",
-      "date": "2026-11-16",
-      "tag": "智能体",
-      "title": "Building AI that can work across the enterprise",
-      "lead": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inade…",
-      "paras": [
-        "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
-      }
-    },
-    {
-      "id": "auto-4215a39cda",
-      "date": "2026-11-16",
-      "tag": "词元工厂",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "lead": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nv…",
-      "paras": [
-        "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-16。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
       }
     }
   ]
