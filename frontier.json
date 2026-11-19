@@ -6,6 +6,132 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-476c5b2462",
+      "date": "2026-11-19",
+      "tag": "前沿观察",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "lead": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "paras": [
+        "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+      }
+    },
+    {
+      "id": "auto-f8896bb502",
+      "date": "2026-11-19",
+      "tag": "词元工厂",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "lead": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "paras": [
+        "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      }
+    },
+    {
+      "id": "auto-93e2453a95",
+      "date": "2026-11-19",
+      "tag": "前沿观察",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "lead": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "paras": [
+        "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+      }
+    },
+    {
+      "id": "auto-b62cf38d48",
+      "date": "2026-11-19",
+      "tag": "智能体",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "lead": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "paras": [
+        "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+      }
+    },
+    {
+      "id": "auto-b6f18a5800",
+      "date": "2026-11-19",
+      "tag": "评测",
+      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+      "lead": "「Revaluation 价值，另有答案」",
+      "paras": [
+        "「Revaluation 价值，另有答案」",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/511258.html"
+      }
+    },
+    {
+      "id": "auto-54473bfcca",
+      "date": "2026-11-19",
+      "tag": "评测",
+      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+      "lead": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+      "paras": [
+        "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/511179.html"
+      }
+    },
+    {
       "id": "auto-f45057932c",
       "date": "2026-11-19",
       "tag": "前沿观察",
@@ -633,132 +759,6 @@
       "source": {
         "label": "OpenAI",
         "url": "https://openai.com/index/introducing-openai-for-chile"
-      }
-    },
-    {
-      "id": "auto-f6559537c6",
-      "date": "2026-11-17",
-      "tag": "多模态",
-      "title": "Research Reports",
-      "lead": "To access a report, click on the corresponding image below.",
-      "paras": [
-        "To access a report, click on the corresponding image below.",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
-      "attach": [
-        "w15d3",
-        "w15d4",
-        "w15d5"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
-      }
-    },
-    {
-      "id": "auto-564c609ea8",
-      "date": "2026-11-17",
-      "tag": "智能体",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "lead": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new develop…",
-      "paras": [
-        "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
-      }
-    },
-    {
-      "id": "auto-8ef964ef96",
-      "date": "2026-11-17",
-      "tag": "前沿观察",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "lead": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "paras": [
-        "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
-      }
-    },
-    {
-      "id": "auto-ebbc5a6e1d",
-      "date": "2026-11-17",
-      "tag": "前沿观察",
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "lead": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "paras": [
-        "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
-      }
-    },
-    {
-      "id": "auto-189e0890bb",
-      "date": "2026-11-17",
-      "tag": "智能体",
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "lead": "筛材料、找配方、开发新模型…拿下多项科研任务",
-      "paras": [
-        "筛材料、找配方、开发新模型…拿下多项科研任务",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510652.html"
-      }
-    },
-    {
-      "id": "auto-459350c16e",
-      "date": "2026-11-17",
-      "tag": "专才与安全",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "lead": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "paras": [
-        "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
       }
     }
   ]
