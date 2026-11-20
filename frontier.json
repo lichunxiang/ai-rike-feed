@@ -1,10 +1,199 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-6d165a6b07",
+      "date": "2026-11-20",
+      "tag": "智能体",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "lead": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "paras": [
+        "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+      }
+    },
+    {
+      "id": "auto-592e4b354a",
+      "date": "2026-11-20",
+      "tag": "前沿观察",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "lead": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "paras": [
+        "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      }
+    },
+    {
+      "id": "auto-24406e8918",
+      "date": "2026-11-20",
+      "tag": "具身与机器人",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "lead": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "paras": [
+        "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/511426.html"
+      }
+    },
+    {
+      "id": "auto-b6e6d43fa9",
+      "date": "2026-11-20",
+      "tag": "专才与安全",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "lead": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship w…",
+      "paras": [
+        "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while they have leverage over the AI: either the AI depends on what they supply, or they can impose costs on the AI that are large relative to what the AI can produce. Once humans have neither kind of levera…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.23322"
+      }
+    },
+    {
+      "id": "auto-29e824a8ae",
+      "date": "2026-11-20",
+      "tag": "智能体",
+      "title": "Training Language Models for Introspective Oversight",
+      "lead": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy…",
+      "paras": [
+        "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations: external transcript monitoring operates only on visible model outputs, and activation decoders lack full context and are prone to confabulation. We introduce introspective oversight, which trains a new role in the model to answer arbitrary questions about t…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.23365"
+      }
+    },
+    {
+      "id": "auto-1235b81e93",
+      "date": "2026-11-20",
+      "tag": "智能体",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "lead": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of…",
+      "paras": [
+        "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges every coding change. We test the theory with an analogue of the experiments in which a single molecule is pulled open and let fold again: an agent makes a change to a repository (coding) and then undo…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.23375"
+      }
+    },
+    {
+      "id": "auto-2547d1c163",
+      "date": "2026-11-19",
+      "tag": "专才与安全",
+      "title": "Deploying Daybreak Red",
+      "lead": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "paras": [
+        "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/learn/deploying-daybreak-red"
+      }
+    },
+    {
+      "id": "auto-a6c02fc727",
+      "date": "2026-11-19",
+      "tag": "前沿观察",
+      "title": "See PR scans in action",
+      "lead": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "paras": [
+        "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/learn/pr-scans-demo"
+      }
+    },
+    {
+      "id": "auto-ff7492acd4",
+      "date": "2026-11-19",
+      "tag": "前沿观察",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "lead": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "paras": [
+        "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+      }
+    },
     {
       "id": "auto-476c5b2462",
       "date": "2026-11-19",
@@ -570,195 +759,6 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/510811.html"
-      }
-    },
-    {
-      "id": "auto-85554748c4",
-      "date": "2026-11-18",
-      "tag": "前沿观察",
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-      "lead": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-      "paras": [
-        "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/510737.html"
-      }
-    },
-    {
-      "id": "auto-f14bd1897d",
-      "date": "2026-11-18",
-      "tag": "评测",
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "lead": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering…",
-      "paras": [
-        "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study introduces NEBench R1, a reasoning-oriented benchmark comprising 7,546 unique multiple-choice questions extracted from U.S. Nuclear Regulatory Commission (NRC) reactor operator licensing examinations covering 18 nuclear facilities. Each question is classified according to the NRC Knowledge and Abilities cat…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.21682"
-      }
-    },
-    {
-      "id": "auto-0c3c2f245e",
-      "date": "2026-11-18",
-      "tag": "智能体",
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "lead": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One ris…",
-      "paras": [
-        "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritten in the voices of diverse personas. This induces a broader ability to control CoT, even though training contains no monitor-evasion examples. In covert side-task evaluations, traces in which a gpt-oss-20b model organism completes the hidden side task contain less monitorable evidence than the bas…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.21799"
-      }
-    },
-    {
-      "id": "auto-b1642fd33f",
-      "date": "2026-11-18",
-      "tag": "词元工厂",
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "lead": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of t…",
-      "paras": [
-        "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the vehicle removed, accuracy is 63.3% on the 40-class SOC split (chance 2.5%). Under the official scene-change split, the background stops helping and starts hurting. Accuracy is 22.8% on full chips and…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.21827"
-      }
-    },
-    {
-      "id": "auto-0979e4b9fa",
-      "date": "2026-11-17",
-      "tag": "前沿观察",
-      "title": "Introducing ChatGPT for Sales",
-      "lead": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "paras": [
-        "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales"
-      }
-    },
-    {
-      "id": "auto-46cf388b56",
-      "date": "2026-11-17",
-      "tag": "词元工厂",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "lead": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "paras": [
-        "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
-      }
-    },
-    {
-      "id": "auto-ce6588655b",
-      "date": "2026-11-17",
-      "tag": "前沿观察",
-      "title": "Can AI help build a healthier future?",
-      "lead": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz…",
-      "paras": [
-        "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier future? appeared first on Microsoft Research .",
-        "这条由 Microsoft Research 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "Microsoft Research",
-        "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/"
-      }
-    },
-    {
-      "id": "auto-bffe6a2fa5",
-      "date": "2026-11-17",
-      "tag": "智能体",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "lead": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "paras": [
-        "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-      }
-    },
-    {
-      "id": "auto-9aed0b2765",
-      "date": "2026-11-17",
-      "tag": "产品与组织",
-      "title": "Introducing OpenAI for Chile",
-      "lead": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "paras": [
-        "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-17。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-openai-for-chile"
       }
     }
   ]
