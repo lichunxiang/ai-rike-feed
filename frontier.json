@@ -1,10 +1,31 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-0c10ae93ae",
+      "date": "2026-11-20",
+      "tag": "评测",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "lead": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "paras": [
+        "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/hebbia"
+      }
+    },
     {
       "id": "auto-5cf05e415e",
       "date": "2026-11-20",
@@ -738,27 +759,6 @@
       "source": {
         "label": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
-      }
-    },
-    {
-      "id": "auto-bcfa989cde",
-      "date": "2026-11-18",
-      "tag": "产品与组织",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "lead": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “…",
-      "paras": [
-        "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
       }
     }
   ]
