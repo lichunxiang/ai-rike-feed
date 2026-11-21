@@ -6,6 +6,69 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-b8b9289525",
+      "date": "2026-11-21",
+      "tag": "智能体",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "lead": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "paras": [
+        "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-21。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      }
+    },
+    {
+      "id": "auto-4197b592bc",
+      "date": "2026-11-21",
+      "tag": "开放权重",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "lead": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "paras": [
+        "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-21。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "开放权重不等于随便用；许可、激活参数、显存和吞吐，决定它是不是真的「用得起」。",
+      "attach": [
+        "w16d1",
+        "w13d5",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+      }
+    },
+    {
+      "id": "auto-0de312b267",
+      "date": "2026-11-20",
+      "tag": "多模态",
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "lead": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+      "paras": [
+        "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
+      "attach": [
+        "w15d3",
+        "w15d4",
+        "w15d5"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/511722.html"
+      }
+    },
+    {
       "id": "auto-0c10ae93ae",
       "date": "2026-11-20",
       "tag": "评测",
@@ -573,6 +636,27 @@
       }
     },
     {
+      "id": "auto-bcfa989cde",
+      "date": "2026-11-18",
+      "tag": "产品与组织",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "lead": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “…",
+      "paras": [
+        "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+      }
+    },
+    {
       "id": "auto-3d233a1742",
       "date": "2026-11-18",
       "tag": "前沿观察",
@@ -675,90 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
-      }
-    },
-    {
-      "id": "auto-879fdaaa9a",
-      "date": "2026-11-18",
-      "tag": "前沿观察",
-      "title": "Inside the Codex sandbox",
-      "lead": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "paras": [
-        "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/inside-the-codex-sandbox"
-      }
-    },
-    {
-      "id": "auto-a46f35d5fa",
-      "date": "2026-11-18",
-      "tag": "专才与安全",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "lead": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "paras": [
-        "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/managing-frontier-ai-risk"
-      }
-    },
-    {
-      "id": "auto-0c0b4de741",
-      "date": "2026-11-18",
-      "tag": "前沿观察",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "lead": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "paras": [
-        "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
-      }
-    },
-    {
-      "id": "auto-b0b4dc5c65",
-      "date": "2026-11-18",
-      "tag": "具身与机器人",
-      "title": "The AI Hype Index: AI is everywhere",
-      "lead": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, a…",
-      "paras": [
-        "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
       }
     }
   ]
