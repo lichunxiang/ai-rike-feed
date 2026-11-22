@@ -6,6 +6,48 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-833f56061f",
+      "date": "2026-11-22",
+      "tag": "评测",
+      "title": "Perplexity and Intelligence",
+      "lead": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "paras": [
+        "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-22。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/perplexity-and-intelligence"
+      }
+    },
+    {
+      "id": "auto-4d6c325c0e",
+      "date": "2026-11-22",
+      "tag": "词元工厂",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "lead": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "paras": [
+        "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-22。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+      }
+    },
+    {
       "id": "auto-61a5c4b5f8",
       "date": "2026-11-21",
       "tag": "前沿观察",
@@ -717,48 +759,6 @@
       "source": {
         "label": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-      }
-    },
-    {
-      "id": "auto-3d233a1742",
-      "date": "2026-11-18",
-      "tag": "前沿观察",
-      "title": "The Silent Consensus",
-      "lead": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "paras": [
-        "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/the-silent-consensus"
-      }
-    },
-    {
-      "id": "auto-31bfc00e1b",
-      "date": "2026-11-18",
-      "tag": "智能体",
-      "title": "Research acceleration: The jagged frontier",
-      "lead": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "paras": [
-        "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier"
       }
     }
   ]
