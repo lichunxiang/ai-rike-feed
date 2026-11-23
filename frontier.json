@@ -1,10 +1,115 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-0c60c3d149",
+      "date": "2026-11-23",
+      "tag": "前沿观察",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "lead": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "paras": [
+        "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+      }
+    },
+    {
+      "id": "auto-348883bc36",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "lead": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI…",
+      "paras": [
+        "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared board, but human-authored ideas dropped substantially. With one AI partner, formation mattered: humans paired with an average-calibrated AI posted more than any other condition. With two, this effect vanished. Humans continued talking but converted fewer id…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.26663"
+      }
+    },
+    {
+      "id": "auto-0a31773a12",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+      "lead": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time…",
+      "paras": [
+        "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be its causal record. Language-model agents propose intent and a deterministic referee resolves outcomes against an explicit world model, so a relation is emitted only when the event it represents occurs, making coherence a property of construction. We ins…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.26717"
+      }
+    },
+    {
+      "id": "auto-3157f4a479",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "lead": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-cal…",
+      "paras": [
+        "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can invalidate a call and an incorrect decision can derail the interaction, direct preference optimisation (DPO) targets exactly this contrast. DPO, therefore, requires preference pairs rather than plain demonstrations. For tool-calling, such data, especially in realistic multi-turn se…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.26722"
+      }
+    },
+    {
+      "id": "auto-4a8dd1bc43",
+      "date": "2026-11-22",
+      "tag": "前沿观察",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "lead": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "paras": [
+        "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-22。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+      }
+    },
     {
       "id": "auto-833f56061f",
       "date": "2026-11-22",
@@ -654,111 +759,6 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/511179.html"
-      }
-    },
-    {
-      "id": "auto-f45057932c",
-      "date": "2026-11-19",
-      "tag": "前沿观察",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "lead": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via anoth…",
-      "paras": [
-        "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
-      }
-    },
-    {
-      "id": "auto-898406383d",
-      "date": "2026-11-19",
-      "tag": "产业落地",
-      "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
-      "lead": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
-      "paras": [
-        "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/511088.html"
-      }
-    },
-    {
-      "id": "auto-d0299222c4",
-      "date": "2026-11-19",
-      "tag": "前沿观察",
-      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-      "lead": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-      "paras": [
-        "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/511079.html"
-      }
-    },
-    {
-      "id": "auto-b0b4dc5c65",
-      "date": "2026-11-18",
-      "tag": "具身与机器人",
-      "title": "The AI Hype Index: AI is everywhere",
-      "lead": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, a…",
-      "paras": [
-        "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
-      }
-    },
-    {
-      "id": "auto-bcfa989cde",
-      "date": "2026-11-18",
-      "tag": "产品与组织",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "lead": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “…",
-      "paras": [
-        "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-18。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
-      "attach": [
-        "w19d5",
-        "w22d3",
-        "w23d3"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
       }
     }
   ]
