@@ -6,6 +6,69 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-9688bafb4d",
+      "date": "2026-11-24",
+      "tag": "前沿观察",
+      "title": "Google Cloud 出海峰会报名开启",
+      "lead": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "paras": [
+        "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-24。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512370.html"
+      }
+    },
+    {
+      "id": "auto-28d39ffb80",
+      "date": "2026-11-24",
+      "tag": "前沿观察",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "lead": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "paras": [
+        "端侧老炮辛米尔，打通物理AI规模化落地之路",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-24。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512362.html"
+      }
+    },
+    {
+      "id": "auto-31b43345bb",
+      "date": "2026-11-24",
+      "tag": "前沿观察",
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "lead": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "paras": [
+        "11月19日，方程豹钛9上市，售价27.99万元起",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-24。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512348.html"
+      }
+    },
+    {
       "id": "auto-c2daf2ad8c",
       "date": "2026-11-23",
       "tag": "开放权重",
@@ -696,69 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-      }
-    },
-    {
-      "id": "auto-592e4b354a",
-      "date": "2026-11-20",
-      "tag": "前沿观察",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "lead": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "paras": [
-        "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-      }
-    },
-    {
-      "id": "auto-24406e8918",
-      "date": "2026-11-20",
-      "tag": "具身与机器人",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "lead": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-      "paras": [
-        "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/511426.html"
-      }
-    },
-    {
-      "id": "auto-b6e6d43fa9",
-      "date": "2026-11-20",
-      "tag": "专才与安全",
-      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-      "lead": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship w…",
-      "paras": [
-        "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side only what it would get if bargaining failed. For humans, this can be less than they had before AI. In a simple game-theoretic model, humans stay as well off as before AI without alignment only while they have leverage over the AI: either the AI depends on what they supply, or they can impose costs on the AI that are large relative to what the AI can produce. Once humans have neither kind of levera…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.23322"
       }
     }
   ]
