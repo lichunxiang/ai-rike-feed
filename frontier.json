@@ -1,10 +1,241 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-c2daf2ad8c",
+      "date": "2026-11-23",
+      "tag": "开放权重",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "lead": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "paras": [
+        "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "开放权重不等于随便用；许可、激活参数、显存和吞吐，决定它是不是真的「用得起」。",
+      "attach": [
+        "w16d1",
+        "w13d5",
+        "w22d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/index/introducing-shirudo"
+      }
+    },
+    {
+      "id": "auto-598981f57b",
+      "date": "2026-11-23",
+      "tag": "产业落地",
+      "title": "Connected intelligence for in-house legal",
+      "lead": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflo…",
+      "paras": [
+        "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
+      "attach": [
+        "w21d1",
+        "w23d1",
+        "w19d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+      }
+    },
+    {
+      "id": "auto-f1b6329c87",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "lead": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "paras": [
+        "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "OpenAI",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+      }
+    },
+    {
+      "id": "auto-3841ff4b1e",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "lead": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "paras": [
+        "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+      }
+    },
+    {
+      "id": "auto-a7fff1eac8",
+      "date": "2026-11-23",
+      "tag": "专才与安全",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "lead": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the…",
+      "paras": [
+        "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
+      "attach": [
+        "w16d3",
+        "w20d4",
+        "w23d4"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+      }
+    },
+    {
+      "id": "auto-5ffb242c61",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "lead": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "paras": [
+        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+      }
+    },
+    {
+      "id": "auto-6a7d85d0c4",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "lead": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "paras": [
+        "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      }
+    },
+    {
+      "id": "auto-aa0d56aa50",
+      "date": "2026-11-23",
+      "tag": "词元工厂",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "lead": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "paras": [
+        "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+      }
+    },
+    {
+      "id": "auto-1c8bf906ca",
+      "date": "2026-11-23",
+      "tag": "词元工厂",
+      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "lead": "零Token成本，断网也能自由Vibe Coding",
+      "paras": [
+        "零Token成本，断网也能自由Vibe Coding",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512195.html"
+      }
+    },
+    {
+      "id": "auto-35c52553c2",
+      "date": "2026-11-23",
+      "tag": "具身与机器人",
+      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+      "lead": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+      "paras": [
+        "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512179.html"
+      }
+    },
+    {
+      "id": "auto-e3ad3e0b49",
+      "date": "2026-11-23",
+      "tag": "智能体",
+      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+      "lead": "一个完全由AI组成的科学家社会，是什么样？",
+      "paras": [
+        "一个完全由AI组成的科学家社会，是什么样？",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512004.html"
+      }
+    },
     {
       "id": "auto-0c60c3d149",
       "date": "2026-11-23",
@@ -528,237 +759,6 @@
       "source": {
         "label": "arXiv cs.AI",
         "url": "https://arxiv.org/abs/2611.23322"
-      }
-    },
-    {
-      "id": "auto-29e824a8ae",
-      "date": "2026-11-20",
-      "tag": "智能体",
-      "title": "Training Language Models for Introspective Oversight",
-      "lead": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy…",
-      "paras": [
-        "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not trained to report their own misbehavior. As a result, approaches to oversight typically involve querying external models. These face limitations: external transcript monitoring operates only on visible model outputs, and activation decoders lack full context and are prone to confabulation. We introduce introspective oversight, which trains a new role in the model to answer arbitrary questions about t…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.23365"
-      }
-    },
-    {
-      "id": "auto-1235b81e93",
-      "date": "2026-11-20",
-      "tag": "智能体",
-      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-      "lead": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of…",
-      "paras": [
-        "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them, and applies them to modern agentic coding. We count the tokens an agent generates as its cost and divide that cost into work and heat. The test suite acts as a software Maxwell's daemon that judges every coding change. We test the theory with an analogue of the experiments in which a single molecule is pulled open and let fold again: an agent makes a change to a repository (coding) and then undo…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.23375"
-      }
-    },
-    {
-      "id": "auto-2547d1c163",
-      "date": "2026-11-19",
-      "tag": "专才与安全",
-      "title": "Deploying Daybreak Red",
-      "lead": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "paras": [
-        "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/learn/deploying-daybreak-red"
-      }
-    },
-    {
-      "id": "auto-a6c02fc727",
-      "date": "2026-11-19",
-      "tag": "前沿观察",
-      "title": "See PR scans in action",
-      "lead": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "paras": [
-        "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/learn/pr-scans-demo"
-      }
-    },
-    {
-      "id": "auto-ff7492acd4",
-      "date": "2026-11-19",
-      "tag": "前沿观察",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "lead": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "paras": [
-        "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-      }
-    },
-    {
-      "id": "auto-476c5b2462",
-      "date": "2026-11-19",
-      "tag": "前沿观察",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "lead": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "paras": [
-        "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-      }
-    },
-    {
-      "id": "auto-f8896bb502",
-      "date": "2026-11-19",
-      "tag": "词元工厂",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "lead": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "paras": [
-        "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-      }
-    },
-    {
-      "id": "auto-93e2453a95",
-      "date": "2026-11-19",
-      "tag": "前沿观察",
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "lead": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "paras": [
-        "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-      }
-    },
-    {
-      "id": "auto-b62cf38d48",
-      "date": "2026-11-19",
-      "tag": "智能体",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "lead": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "paras": [
-        "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-      }
-    },
-    {
-      "id": "auto-b6f18a5800",
-      "date": "2026-11-19",
-      "tag": "评测",
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "lead": "「Revaluation 价值，另有答案」",
-      "paras": [
-        "「Revaluation 价值，另有答案」",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/511258.html"
-      }
-    },
-    {
-      "id": "auto-54473bfcca",
-      "date": "2026-11-19",
-      "tag": "评测",
-      "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-      "lead": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
-      "paras": [
-        "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-19。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/511179.html"
       }
     }
   ]
