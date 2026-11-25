@@ -1,10 +1,94 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-94b5a7686d",
+      "date": "2026-11-25",
+      "tag": "词元工厂",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "lead": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the dir…",
+      "paras": [
+        "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+      }
+    },
+    {
+      "id": "auto-51f8cd5bb4",
+      "date": "2026-11-25",
+      "tag": "前沿观察",
+      "title": "Claude Opus 5.6灰测效果来了",
+      "lead": "整体效率大约是此前Opus版本的2到3倍。",
+      "paras": [
+        "整体效率大约是此前Opus版本的2到3倍。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512478.html"
+      }
+    },
+    {
+      "id": "auto-145086468d",
+      "date": "2026-11-24",
+      "tag": "具身与机器人",
+      "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+      "lead": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+      "paras": [
+        "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-24。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
+      "attach": [
+        "w15d3",
+        "w15d5",
+        "w21d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512454.html"
+      }
+    },
+    {
+      "id": "auto-c7b908cbd7",
+      "date": "2026-11-24",
+      "tag": "前沿观察",
+      "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+      "lead": "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行",
+      "paras": [
+        "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-24。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512411.html"
+      }
+    },
     {
       "id": "auto-89819dcb83",
       "date": "2026-11-24",
@@ -675,90 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-      }
-    },
-    {
-      "id": "auto-0de312b267",
-      "date": "2026-11-20",
-      "tag": "多模态",
-      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
-      "lead": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-      "paras": [
-        "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
-      "attach": [
-        "w15d3",
-        "w15d4",
-        "w15d5"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/511722.html"
-      }
-    },
-    {
-      "id": "auto-0c10ae93ae",
-      "date": "2026-11-20",
-      "tag": "评测",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "lead": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "paras": [
-        "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/customer-stories/hebbia"
-      }
-    },
-    {
-      "id": "auto-5cf05e415e",
-      "date": "2026-11-20",
-      "tag": "前沿观察",
-      "title": "Combatting adversarial distillation",
-      "lead": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "paras": [
-        "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/combatting-adversarial-distillation"
-      }
-    },
-    {
-      "id": "auto-ea03f2b324",
-      "date": "2026-11-20",
-      "tag": "评测",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "lead": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "paras": [
-        "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-20。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-medchembench"
       }
     }
   ]
