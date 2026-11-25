@@ -6,6 +6,153 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-7cc51278a5",
+      "date": "2026-11-25",
+      "tag": "前沿观察",
+      "title": "AI is straining America’s open records systems",
+      "lead": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presidin…",
+      "paras": [
+        "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+      }
+    },
+    {
+      "id": "auto-20bc18f102",
+      "date": "2026-11-25",
+      "tag": "前沿观察",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "lead": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "paras": [
+        "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      }
+    },
+    {
+      "id": "auto-3b95b27efe",
+      "date": "2026-11-25",
+      "tag": "词元工厂",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "lead": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "paras": [
+        "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+      }
+    },
+    {
+      "id": "auto-011ec0d91b",
+      "date": "2026-11-25",
+      "tag": "前沿观察",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "lead": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and…",
+      "paras": [
+        "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+      }
+    },
+    {
+      "id": "auto-7063368e51",
+      "date": "2026-11-25",
+      "tag": "智能体",
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "lead": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "paras": [
+        "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512715.html"
+      }
+    },
+    {
+      "id": "auto-2c6bd9e34b",
+      "date": "2026-11-25",
+      "tag": "词元工厂",
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "lead": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "paras": [
+        "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512582.html"
+      }
+    },
+    {
+      "id": "auto-edcedae986",
+      "date": "2026-11-25",
+      "tag": "前沿观察",
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "lead": "揭秘General Looped Model",
+      "paras": [
+        "揭秘General Looped Model",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512565.html"
+      }
+    },
+    {
       "id": "auto-94b5a7686d",
       "date": "2026-11-25",
       "tag": "词元工厂",
@@ -45,6 +192,27 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/512478.html"
+      }
+    },
+    {
+      "id": "auto-a1ac49db04",
+      "date": "2026-11-24",
+      "tag": "前沿观察",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "lead": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "paras": [
+        "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-24。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "Google DeepMind",
+        "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/"
       }
     },
     {
@@ -591,174 +759,6 @@
       "source": {
         "label": "arXiv cs.AI",
         "url": "https://arxiv.org/abs/2611.26717"
-      }
-    },
-    {
-      "id": "auto-3157f4a479",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "lead": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-cal…",
-      "paras": [
-        "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one. In an environment where even a minor formatting error can invalidate a call and an incorrect decision can derail the interaction, direct preference optimisation (DPO) targets exactly this contrast. DPO, therefore, requires preference pairs rather than plain demonstrations. For tool-calling, such data, especially in realistic multi-turn se…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.26722"
-      }
-    },
-    {
-      "id": "auto-4a8dd1bc43",
-      "date": "2026-11-22",
-      "tag": "前沿观察",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "lead": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "paras": [
-        "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-22。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
-      }
-    },
-    {
-      "id": "auto-833f56061f",
-      "date": "2026-11-22",
-      "tag": "评测",
-      "title": "Perplexity and Intelligence",
-      "lead": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "paras": [
-        "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-22。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
-      "attach": [
-        "w16d1",
-        "w16d5",
-        "w19d4"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/perplexity-and-intelligence"
-      }
-    },
-    {
-      "id": "auto-4d6c325c0e",
-      "date": "2026-11-22",
-      "tag": "词元工厂",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "lead": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "paras": [
-        "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-22。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
-      }
-    },
-    {
-      "id": "auto-61a5c4b5f8",
-      "date": "2026-11-21",
-      "tag": "前沿观察",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "lead": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "paras": [
-        "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-21。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
-      }
-    },
-    {
-      "id": "auto-6af66204df",
-      "date": "2026-11-21",
-      "tag": "词元工厂",
-      "title": "A tale of two Nvidias",
-      "lead": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "paras": [
-        "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-21。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
-      }
-    },
-    {
-      "id": "auto-b8b9289525",
-      "date": "2026-11-21",
-      "tag": "智能体",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "lead": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "paras": [
-        "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-21。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-      }
-    },
-    {
-      "id": "auto-4197b592bc",
-      "date": "2026-11-21",
-      "tag": "开放权重",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "lead": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "paras": [
-        "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-21。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "开放权重不等于随便用；许可、激活参数、显存和吞吐，决定它是不是真的「用得起」。",
-      "attach": [
-        "w16d1",
-        "w13d5",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
       }
     }
   ]
