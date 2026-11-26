@@ -6,6 +6,69 @@
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
     {
+      "id": "auto-bf84d6f90d",
+      "date": "2026-11-26",
+      "tag": "词元工厂",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "lead": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "paras": [
+        "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      }
+    },
+    {
+      "id": "auto-4dd7b9c29a",
+      "date": "2026-11-26",
+      "tag": "多模态",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "lead": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "paras": [
+        "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
+      "attach": [
+        "w15d3",
+        "w15d4",
+        "w15d5"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+      }
+    },
+    {
+      "id": "auto-aa68f1a085",
+      "date": "2026-11-26",
+      "tag": "前沿观察",
+      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "lead": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+      "paras": [
+        "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/513021.html"
+      }
+    },
+    {
       "id": "auto-d3ba0fe53f",
       "date": "2026-11-26",
       "tag": "产品与组织",
@@ -696,69 +759,6 @@
       "source": {
         "label": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
-      }
-    },
-    {
-      "id": "auto-6a7d85d0c4",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "lead": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "paras": [
-        "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
-      }
-    },
-    {
-      "id": "auto-aa0d56aa50",
-      "date": "2026-11-23",
-      "tag": "词元工厂",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "lead": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "paras": [
-        "\"The mistake has been corrected,\" Elon Musk chimed in.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
-      }
-    },
-    {
-      "id": "auto-1c8bf906ca",
-      "date": "2026-11-23",
-      "tag": "词元工厂",
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-      "lead": "零Token成本，断网也能自由Vibe Coding",
-      "paras": [
-        "零Token成本，断网也能自由Vibe Coding",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
-      "attach": [
-        "w12d4",
-        "w20d3",
-        "w22d2"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/512195.html"
       }
     }
   ]
