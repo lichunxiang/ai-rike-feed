@@ -1,10 +1,115 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-d3ba0fe53f",
+      "date": "2026-11-26",
+      "tag": "产品与组织",
+      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "lead": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+      "paras": [
+        "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它改变的是哪一段工作流、谁的工作被重新分配；只增加一个聊天框，通常不算产品变化。",
+      "attach": [
+        "w19d5",
+        "w22d3",
+        "w23d3"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/512942.html"
+      }
+    },
+    {
+      "id": "auto-cde6cd735b",
+      "date": "2026-11-26",
+      "tag": "智能体",
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "lead": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally funda…",
+      "paras": [
+        "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act. In this paper, we show that allocation is not an auxiliary concern but a structural component of governance. When multiple agents compete for execution under constrained resources, any allocation mechanism introduces unavoidable trade-offs between fairness, efficiency, and resistance to strategic manipulation. We formalize this through a set of impossibility results, including Sybil amplification and the incompatibility of desirable allo…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.31284"
+      }
+    },
+    {
+      "id": "auto-38111c5865",
+      "date": "2026-11-26",
+      "tag": "多模态",
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "lead": "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot sho…",
+      "paras": [
+        "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way label in which every source clip is released in all four combinations of real or fake video and real or fake audio so each modality contribution can be measured directly. Fakes cover inner-face swapping, whole-frame video diffusion and voice conversion. MOZAIC has 137,745 clips from 15,014 source pairs and four tasks: T1 AV authenticity, T2 manipulation type, T3 identity verificati…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看输入输出是否真的多模态，还是只加了一个接口；生成质量、延迟和版权，是三件事。",
+      "attach": [
+        "w15d3",
+        "w15d4",
+        "w15d5"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.31301"
+      }
+    },
+    {
+      "id": "auto-4e0f89e56a",
+      "date": "2026-11-26",
+      "tag": "前沿观察",
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "lead": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set…",
+      "paras": [
+        "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set of present attributes. The similarity of two objects is a weighted overlap on the attributes present in both, divided by the fixed number of attributes |A| instead of the size of their union, so missing values are penalised globally and are not matched as wildcards. From this similarity we define a soft dependency degree based on weighted granule consistency, and we search for reducts by greedy b…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-26。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.31329"
+      }
+    },
+    {
+      "id": "auto-43ba348509",
+      "date": "2026-11-25",
+      "tag": "词元工厂",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "lead": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "paras": [
+        "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-25。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+      }
+    },
     {
       "id": "auto-7cc51278a5",
       "date": "2026-11-25",
@@ -654,111 +759,6 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/512195.html"
-      }
-    },
-    {
-      "id": "auto-35c52553c2",
-      "date": "2026-11-23",
-      "tag": "具身与机器人",
-      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
-      "lead": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
-      "paras": [
-        "企业核心需求不是交付设备，而是能持续上岗的劳动力",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它在真实环境里能连续完成多少步、失败后怎么恢复；演示视频和可重复运行，是两件事。",
-      "attach": [
-        "w15d3",
-        "w15d5",
-        "w21d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/512179.html"
-      }
-    },
-    {
-      "id": "auto-e3ad3e0b49",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-      "lead": "一个完全由AI组成的科学家社会，是什么样？",
-      "paras": [
-        "一个完全由AI组成的科学家社会，是什么样？",
-        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "量子位",
-        "url": "https://www.qbitai.com/2026/11/512004.html"
-      }
-    },
-    {
-      "id": "auto-0c60c3d149",
-      "date": "2026-11-23",
-      "tag": "前沿观察",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "lead": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "paras": [
-        "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w01d1",
-        "w16d1",
-        "w22d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
-      }
-    },
-    {
-      "id": "auto-348883bc36",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "lead": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI…",
-      "paras": [
-        "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168) with human-human dyads as reference. Two-AI rooms posted more ideas to the shared board, but human-authored ideas dropped substantially. With one AI partner, formation mattered: humans paired with an average-calibrated AI posted more than any other condition. With two, this effect vanished. Humans continued talking but converted fewer id…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.26663"
-      }
-    },
-    {
-      "id": "auto-0a31773a12",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "lead": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time…",
-      "paras": [
-        "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a relational artifact, we simulate a process that produces it and take the artifact to be its causal record. Language-model agents propose intent and a deterministic referee resolves outcomes against an explicit world model, so a relation is emitted only when the event it represents occurs, making coherence a property of construction. We ins…",
-        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "arXiv cs.AI",
-        "url": "https://arxiv.org/abs/2611.26717"
       }
     }
   ]
