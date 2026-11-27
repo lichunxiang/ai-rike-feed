@@ -1,10 +1,136 @@
 {
   "edition": "2026.11",
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "headline": "自动抓取：过去几天的 AI 变化",
   "intro": "这一版由 GitHub Actions 从公开 RSS/Atom 源自动抓取，每 6 小时检查一次。只保留标题、摘要、来源和挂回课程；数字与结论以原文为准。",
   "note": "自动抓取，未经人工审核。每条都标了来源，重要判断请点开原文核对。",
   "signals": [
+    {
+      "id": "auto-065c22e522",
+      "date": "2026-11-27",
+      "tag": "前沿观察",
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "lead": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "paras": [
+        "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/513211.html"
+      }
+    },
+    {
+      "id": "auto-29e48434ba",
+      "date": "2026-11-27",
+      "tag": "智能体",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "lead": "Quickwit查询总耗时降31%，最高降87%",
+      "paras": [
+        "Quickwit查询总耗时降31%，最高降87%",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w18d1",
+        "w19d3",
+        "w01d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/513163.html"
+      }
+    },
+    {
+      "id": "auto-385f42285d",
+      "date": "2026-11-27",
+      "tag": "前沿观察",
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "lead": "3D生成的竞争重点正在从“能看”转向“能用”",
+      "paras": [
+        "3D生成的竞争重点正在从“能看”转向“能用”",
+        "这条由 量子位 的公开 RSS 自动抓取，日期为 2026-11-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
+      "attach": [
+        "w01d1",
+        "w16d1",
+        "w22d1"
+      ],
+      "source": {
+        "label": "量子位",
+        "url": "https://www.qbitai.com/2026/11/513155.html"
+      }
+    },
+    {
+      "id": "auto-11015b3e9e",
+      "date": "2026-11-27",
+      "tag": "词元工厂",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "lead": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available…",
+      "paras": [
+        "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be unavailable, distorted, or poorly selected. We call the effort to reduce this bottleneck context scaling. We frame a model as $P_\\theta(d\\mid c)$ within a system governed by three budgets: training $B_\\theta$, decision-time $B_d$, and context-infrastructure $B_c$. Pretraining scaling invests in $\\theta$; decision-time scaling searches, refines, or verifies decisions under supplied c…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "别只看模型分数，问清 token 成本曲线：吞吐、缓存命中、延迟和利用率，最后都会写进价格。",
+      "attach": [
+        "w12d4",
+        "w20d3",
+        "w22d2"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.33160"
+      }
+    },
+    {
+      "id": "auto-9ef9234bb2",
+      "date": "2026-11-27",
+      "tag": "评测",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "lead": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge mod…",
+      "paras": [
+        "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically infeasible, or rated highly by a judge while quietly breaking a task requirement. We propose a scoring framework that combines a small set of hard checks every answer must pass with a wider set of softer checks whose scores are blended into one number per candidate. This adaptive scoring framework consists of three components: a drafting model that produces the candidates, a conf…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.33161"
+      }
+    },
+    {
+      "id": "auto-207423dc41",
+      "date": "2026-11-27",
+      "tag": "评测",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "lead": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalizatio…",
+      "paras": [
+        "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to a formal library. Existing evaluations often provide isolated theorem statements in settings where much of this supporting theory is already available in Mathlib. We introduce AutoformBench, a benchmark of 341 Lean 4 formalization tasks drawn from 24 advanced mathematical sources. Lean-experienced mathematicians formalized and audited each target statement, leaving the corresp…",
+        "这条由 arXiv cs.AI 的公开 RSS 自动抓取，日期为 2026-11-27。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
+      ],
+      "soWhat": "先问测的是什么、怎么测、和谁比；同一个模型在不同榜单上领先或落后，往往不是矛盾。",
+      "attach": [
+        "w16d1",
+        "w16d5",
+        "w19d4"
+      ],
+      "source": {
+        "label": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.33165"
+      }
+    },
     {
       "id": "auto-bf84d6f90d",
       "date": "2026-11-26",
@@ -633,132 +759,6 @@
       "source": {
         "label": "量子位",
         "url": "https://www.qbitai.com/2026/11/512348.html"
-      }
-    },
-    {
-      "id": "auto-c2daf2ad8c",
-      "date": "2026-11-23",
-      "tag": "开放权重",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "lead": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "paras": [
-        "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "开放权重不等于随便用；许可、激活参数、显存和吞吐，决定它是不是真的「用得起」。",
-      "attach": [
-        "w16d1",
-        "w13d5",
-        "w22d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/index/introducing-shirudo"
-      }
-    },
-    {
-      "id": "auto-598981f57b",
-      "date": "2026-11-23",
-      "tag": "产业落地",
-      "title": "Connected intelligence for in-house legal",
-      "lead": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflo…",
-      "paras": [
-        "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它替掉了哪一步动作、出错时谁兜底；行业里真正的差别通常在数据和流程，不在模型名字。",
-      "attach": [
-        "w21d1",
-        "w23d1",
-        "w19d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
-      }
-    },
-    {
-      "id": "auto-f1b6329c87",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "lead": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "paras": [
-        "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-        "这条由 OpenAI 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "OpenAI",
-        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
-      }
-    },
-    {
-      "id": "auto-3841ff4b1e",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "lead": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "paras": [
-        "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-        "这条由 Google DeepMind 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "Google DeepMind",
-        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
-      }
-    },
-    {
-      "id": "auto-a7fff1eac8",
-      "date": "2026-11-23",
-      "tag": "专才与安全",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "lead": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the…",
-      "paras": [
-        "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
-        "这条由 MIT Technology Review 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "能力越强，准入越窄；看它要求什么身份、审批和审计，再判断能不能用在真实业务里。",
-      "attach": [
-        "w16d3",
-        "w20d4",
-        "w23d4"
-      ],
-      "source": {
-        "label": "MIT Technology Review",
-        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
-      }
-    },
-    {
-      "id": "auto-5ffb242c61",
-      "date": "2026-11-23",
-      "tag": "智能体",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "lead": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "paras": [
-        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-        "这条由 TechCrunch 的公开 RSS 自动抓取，日期为 2026-11-23。只保留标题和摘要层的信息，细节与数字请点开原文核对。"
-      ],
-      "soWhat": "看它把哪些动作交给模型、哪些仍由人批准；权限、回滚和失败后的责任，比演示更重要。",
-      "attach": [
-        "w18d1",
-        "w19d3",
-        "w01d1"
-      ],
-      "source": {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
       }
     }
   ]
